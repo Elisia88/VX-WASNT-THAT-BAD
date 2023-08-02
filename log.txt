@@ -1,0 +1,20 @@
+Line 2: Processed - 170x Upland Wheat -> ClassJobCategory: BTN
+Line 3: Processed - 70x Underground Spring Water -> ClassJobCategory: MIN
+Line 4: Processed - 14x Tiger Lily -> ClassJobCategory: BTN
+Line 5: Processed - 402x Thavnairian Perilla Leaf -> ClassJobCategory: BTN
+Line 6: Processed - 100x Thavnairian Paprika -> ClassJobCategory: BTN
+Line 7: Processed - 14x Sweet Alyssum -> ClassJobCategory: BTN
+Line 8: Processed - 204x Sharlayan Rock Salt -> ClassJobCategory: MIN
+Line 9: Processed - 402x Palm Syrup -> ClassJobCategory: BTN
+Line 10: Processed - 14x Lime Basil -> ClassJobCategory: BTN
+Line 11: Processed - 14x Light Gerbera -> ClassJobCategory: BTN
+Line 12: Processed - 170x Gianthive Chip -> ClassJobCategory: BTN
+Line 13: Processed - 100x Giant Popoto -> ClassJobCategory: BTN
+Line 14: Processed - 170x Frantoio -> ClassJobCategory: BTN
+Line 15: Processed - 14x Fernleaf Lavender -> ClassJobCategory: BTN
+Line 16: Processed - 200x Bomba Rice -> ClassJobCategory: BTN
+Line 17: Processed - 200x Blood Tomato -> ClassJobCategory: BTN
+Line 18: Processed - 100x Ambrosial Water -> ClassJobCategory: MIN
+Line 19: Processed - 100x Alien Onion -> ClassJobCategory: BTN
+Line 22: Processed - 670x Ovibos Milk -> ClassJobCategory: Disciples of War or Magic
+Line 23: Processed - 35x Lunatender Blossom -> ClassJobCategory: Disciples of War or Magic

@@ -1,0 +1,123 @@
+key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+308,False,FSH,1,0,RetainerTaskParameter#1,1,60,500,0,0,0,0,0,Crayfish
+309,False,FSH,4,0,RetainerTaskParameter#4,1,60,1400,0,0,0,0,0,Finger Shrimp
+310,False,FSH,5,0,RetainerTaskParameter#5,1,60,1400,0,0,0,0,0,White Coral
+311,False,FSH,5,0,RetainerTaskParameter#5,1,60,1400,0,0,0,0,0,Princess Trout
+312,False,FSH,6,0,RetainerTaskParameter#6,1,60,3000,0,0,0,0,0,Dusk Goby
+313,False,FSH,7,0,RetainerTaskParameter#7,1,60,3000,0,0,0,0,0,Pipira
+314,False,FSH,8,0,RetainerTaskParameter#8,1,60,5000,0,0,0,0,0,Crimson Crayfish
+315,False,FSH,9,0,RetainerTaskParameter#9,1,60,5000,0,0,0,0,0,Coral Butterfly
+316,False,FSH,10,0,RetainerTaskParameter#10,1,60,7400,0,72,0,21,0,Brass Loach
+317,False,FSH,11,0,RetainerTaskParameter#11,1,60,7400,0,72,0,24,0,Maiden Carp
+318,False,FSH,14,0,RetainerTaskParameter#14,1,60,13100,0,72,0,31,0,Tiger Cod
+319,False,FSH,16,0,RetainerTaskParameter#16,1,60,17400,0,72,0,35,0,Helmet Crab
+320,False,FSH,17,0,RetainerTaskParameter#17,1,60,17400,0,72,0,38,0,Rothlyt Oyster
+321,False,FSH,18,0,RetainerTaskParameter#18,1,60,21900,0,72,0,40,0,Navigator's Dagger
+322,False,FSH,19,0,RetainerTaskParameter#19,1,60,21900,0,72,0,43,0,Bluebell Salmon
+323,False,FSH,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,45,0,Razor Clam
+324,False,FSH,21,0,RetainerTaskParameter#21,1,60,24900,0,72,0,56,0,Blowfish
+325,False,FSH,23,0,RetainerTaskParameter#23,1,60,26100,0,72,0,55,0,Warmwater Trout
+326,False,FSH,24,0,RetainerTaskParameter#24,1,60,27200,0,72,0,56,0,Black Eel
+327,False,FSH,25,0,RetainerTaskParameter#25,1,60,27200,0,72,0,57,0,Dark Bass
+328,False,FSH,26,0,RetainerTaskParameter#26,1,60,32100,0,72,0,59,0,Blue Coral
+329,False,FSH,27,0,RetainerTaskParameter#27,1,60,32100,0,72,0,60,0,Bianaq Bream
+330,False,FSH,28,0,RetainerTaskParameter#28,1,60,34500,0,72,0,62,0,Black Sole
+331,False,FSH,29,0,RetainerTaskParameter#29,1,60,34500,0,72,0,63,0,Hammerhead Shark
+332,False,FSH,31,0,RetainerTaskParameter#31,1,60,35200,0,72,0,71,0,Indigo Herring
+333,False,FSH,32,0,RetainerTaskParameter#32,1,60,38600,0,72,0,72,0,Ash Tuna
+334,False,FSH,34,0,RetainerTaskParameter#34,1,60,40800,0,72,0,75,0,Fullmoon Sardine
+335,False,FSH,36,0,RetainerTaskParameter#36,1,60,44800,0,72,0,85,0,Whitelip Oyster
+336,False,FSH,38,0,RetainerTaskParameter#38,1,60,49000,0,72,0,89,0,Velodyna Carp
+337,False,FSH,40,0,RetainerTaskParameter#40,1,60,52600,0,72,0,92,0,Red Coral
+338,False,FSH,41,0,RetainerTaskParameter#41,1,60,52600,0,72,0,97,0,Silver Shark
+339,False,FSH,43,0,RetainerTaskParameter#43,1,60,54200,0,72,0,100,0,Raincaller
+340,False,FSH,44,0,RetainerTaskParameter#44,1,60,55700,0,72,0,102,0,Blacklip Oyster
+341,False,FSH,46,0,RetainerTaskParameter#46,1,60,61900,0,72,0,105,0,Northern Pike
+342,False,FSH,48,0,RetainerTaskParameter#48,1,60,66400,0,72,0,109,0,Cloud Cutter
+382,True,FSH,1,0,RetainerTaskParameter#1,2,1080,4900,0,0,0,0,0,Waterside Exploration I
+383,True,FSH,5,0,RetainerTaskParameter#1,2,1080,19900,0,0,0,0,0,Waterside Exploration II
+384,True,FSH,10,0,RetainerTaskParameter#1,2,1080,45200,0,72,0,21,0,Waterside Exploration III
+385,True,FSH,15,0,RetainerTaskParameter#1,2,1080,87600,0,72,0,33,0,Waterside Exploration IV
+386,True,FSH,20,0,RetainerTaskParameter#1,2,1080,106600,0,72,0,45,0,Waterside Exploration V
+387,True,FSH,25,0,RetainerTaskParameter#1,2,1080,138100,0,72,0,57,0,Waterside Exploration VI
+388,True,FSH,30,0,RetainerTaskParameter#1,2,1080,158300,0,72,0,64,0,Waterside Exploration VII
+389,True,FSH,35,0,RetainerTaskParameter#1,2,1080,195900,0,72,0,77,0,Waterside Exploration VIII
+390,True,FSH,40,0,RetainerTaskParameter#1,2,1080,220000,0,72,0,92,0,Waterside Exploration IX
+391,True,FSH,45,0,RetainerTaskParameter#1,2,1080,265600,0,72,0,104,0,Waterside Exploration X
+392,True,FSH,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,180,0,Waterside Exploration XI
+393,True,FSH,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,184,0,Waterside Exploration XII
+394,True,FSH,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,186,0,Waterside Exploration XIII
+399,True,FSH,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,200,0,Waterside Exploration XIV
+403,True,FSH,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,207,0,Waterside Exploration XV
+407,True,FSH,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,216,0,Waterside Exploration XVI
+411,True,FSH,51,0,RetainerTaskParameter#1,2,1080,680900,0,72,0,228,0,Waterside Exploration XVII
+415,True,FSH,55,0,RetainerTaskParameter#1,2,1080,988600,0,72,0,312,0,Waterside Exploration XVIII
+480,False,FSH,51,0,RetainerTaskParameter#120,1,60,122000,0,72,0,228,0,Ice Faerie
+481,False,FSH,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,249,0,Fanged Clam
+482,False,FSH,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,249,0,Ogre Horn Snail
+483,False,FSH,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,249,0,Whilom Catfish
+484,False,FSH,53,0,RetainerTaskParameter#130,1,60,154200,0,72,0,271,0,Maiboi
+485,False,FSH,53,0,RetainerTaskParameter#130,1,60,154200,0,72,0,271,0,Seema Patrician
+486,False,FSH,54,0,RetainerTaskParameter#133,1,60,186000,0,72,0,291,0,Bubble Eye
+487,False,FSH,54,0,RetainerTaskParameter#133,1,60,186000,0,72,0,291,0,Scholar Sculpin
+488,False,FSH,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,312,0,Marble Oscar
+489,False,FSH,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,312,0,Vanuhead
+490,False,FSH,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,312,0,Mercy Staff
+491,False,FSH,56,0,RetainerTaskParameter#139,1,60,216800,0,72,0,314,0,Warmwater Bichir
+492,False,FSH,57,0,RetainerTaskParameter#142,1,60,216800,0,72,0,320,0,Orn Butterfly
+493,False,FSH,57,0,RetainerTaskParameter#142,1,60,216800,0,72,0,320,0,Philosopher's Stone
+494,False,FSH,58,0,RetainerTaskParameter#145,1,60,247100,0,72,0,327,0,Rockclimber
+495,False,FSH,58,0,RetainerTaskParameter#145,1,60,247100,0,72,0,327,0,Hospitalier Fish
+496,False,FSH,59,0,RetainerTaskParameter#148,1,60,247100,0,72,0,336,0,Battle Galley
+497,False,FSH,59,0,RetainerTaskParameter#148,1,60,247100,0,72,0,336,0,Cherry Trout
+498,False,FSH,60,0,RetainerTaskParameter#150,1,60,251000,0,72,0,347,0,Thunderbolt Eel
+499,False,FSH,60,0,RetainerTaskParameter#150,1,60,251000,0,72,0,347,0,Hinterlands Perch
+501,False,FSH,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,249,0,Blueclaw Shrimp
+502,False,FSH,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,312,0,Rock Mussel
+503,False,FSH,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,312,0,Mogpom
+504,False,FSH,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,312,0,Sweetfish
+505,False,FSH,54,0,RetainerTaskParameter#133,1,60,186000,0,72,0,291,0,Blue Cloud Coral
+555,True,FSH,60,0,RetainerTaskParameter#1,2,1080,1109600,0,72,0,393,0,Waterside Exploration XIX
+581,True,FSH,61,0,RetainerTaskParameter#1,2,1080,1109700,0,72,0,560,0,Waterside Exploration XX
+585,True,FSH,65,0,RetainerTaskParameter#1,2,1080,1133300,0,72,0,591,0,Waterside Exploration XXI
+729,False,FSH,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,560,0,Highland Perch
+730,False,FSH,62,0,RetainerTaskParameter#210,1,60,261500,0,72,0,571,0,Heather Charr
+731,False,FSH,63,0,RetainerTaskParameter#215,1,60,261500,0,72,0,582,0,Eastern Sea Pickle
+732,False,FSH,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,587,0,Gauntlet Crab
+733,False,FSH,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,591,0,Curtain Pleco
+734,False,FSH,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,595,0,Steppe Bullfrog
+735,False,FSH,67,0,RetainerTaskParameter#245,1,60,265800,0,72,0,607,0,Sea Lamp
+736,False,FSH,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,620,0,Spiny Lobster
+737,False,FSH,69,0,RetainerTaskParameter#275,1,60,283300,0,72,0,632,0,Koromo Octopus
+738,False,FSH,70,0,RetainerTaskParameter#290,1,60,301800,0,72,0,644,0,Motley Beakfish
+743,True,FSH,70,0,RetainerTaskParameter#1,2,1080,1169200,0,72,0,644,0,Waterside Exploration XXII
+750,False,FSH,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,700,0,Snailfish
+755,False,FSH,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,812,0,Usuginu Octopus
+766,True,FSH,71,0,RetainerTaskParameter#1,2,1080,1412800,0,72,0,952,0,Waterside Exploration XXIII
+770,True,FSH,75,0,RetainerTaskParameter#1,2,1080,2102400,0,72,0,1035,0,Waterside Exploration XXIV
+841,False,FSH,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,952,0,Sand Egg
+842,False,FSH,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,980,0,Spearhead Squid
+843,False,FSH,73,0,RetainerTaskParameter#355,1,60,332400,0,72,0,988,0,Cherry Herring
+844,False,FSH,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1008,0,Lemonfish
+845,False,FSH,77,0,RetainerTaskParameter#400,1,60,437700,0,72,0,1088,0,Black Tri-star
+846,False,FSH,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1008,0,Little Flirt
+847,False,FSH,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1061,0,Gourmand Crab
+848,False,FSH,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1114,0,Megapiranha
+849,False,FSH,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1114,0,Rose Shrimp
+850,False,FSH,79,0,RetainerTaskParameter#420,1,60,525600,0,72,0,1140,0,Sweetflesh Oyster
+854,True,FSH,80,0,RetainerTaskParameter#1,2,1080,2396800,0,72,0,1167,0,Waterside Exploration XXV
+863,False,FSH,80,0,RetainerTaskParameter#440,1,60,599200,0,72,0,1222,0,Sweetmeat Mussel
+872,False,FSH,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1267,0,Blue Crab
+886,True,FSH,81,0,RetainerTaskParameter#1,2,1080,3179200,0,72,0,1452,0,Waterside Exploration XXVI
+887,True,FSH,85,0,RetainerTaskParameter#1,2,1080,4335200,0,72,0,1621,0,Waterside Exploration XXVII
+951,False,FSH,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1452,0,Northern Herring
+952,False,FSH,83,0,RetainerTaskParameter#510,1,60,794800,0,72,0,1531,0,Spiny King Crab
+953,False,FSH,83,0,RetainerTaskParameter#510,1,60,794800,0,72,0,1531,0,Icepike
+954,False,FSH,87,0,RetainerTaskParameter#540,1,60,952900,0,72,0,1695,0,Grey Mullet
+955,False,FSH,88,0,RetainerTaskParameter#547,1,60,1045900,0,72,0,1732,0,Shallows Cod
+956,False,FSH,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1452,0,Ruby-spotted Crab
+957,False,FSH,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1478,0,Macrobrachium Lar
+958,False,FSH,84,0,RetainerTaskParameter#520,1,60,794800,0,72,0,1584,0,Dream Pickle
+959,False,FSH,86,0,RetainerTaskParameter#534,1,60,923100,0,72,0,1658,0,Protomyke #987
+960,False,FSH,88,0,RetainerTaskParameter#547,1,60,1045900,0,72,0,1732,0,Rummy-nosed Tetra
+964,True,FSH,90,0,RetainerTaskParameter#1,2,1080,5311200,0,72,0,1806,0,Waterside Exploration XXVIII

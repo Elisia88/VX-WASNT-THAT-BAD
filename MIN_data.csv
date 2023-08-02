@@ -1,0 +1,275 @@
+key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+69,False,MIN,2,1,RetainerTaskParameter#2,1,60,800,0,0,0,0,0,Copper Ore
+70,False,MIN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Fire Shard
+71,False,MIN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Ice Shard
+72,False,MIN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Wind Shard
+73,False,MIN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Earth Shard
+74,False,MIN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Lightning Shard
+75,False,MIN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Water Shard
+76,False,MIN,3,3,RetainerTaskParameter#3,1,60,800,0,0,0,0,0,Muddy Water
+77,False,MIN,5,5,RetainerTaskParameter#5,1,60,1400,0,0,0,0,0,Bone Chip
+78,False,MIN,6,6,RetainerTaskParameter#6,1,60,3000,0,0,0,0,0,Tin Ore
+79,False,MIN,7,7,RetainerTaskParameter#7,1,60,3000,0,0,0,0,0,Raw Sunstone
+80,False,MIN,7,7,RetainerTaskParameter#7,1,60,3000,0,0,0,0,0,Raw Lapis Lazuli
+81,False,MIN,8,8,RetainerTaskParameter#8,1,60,5000,0,0,0,0,0,Soiled Femur
+82,False,MIN,9,9,RetainerTaskParameter#9,1,60,5000,0,0,0,0,0,Zinc Ore
+83,False,MIN,10,10,RetainerTaskParameter#10,1,60,7400,0,72,0,30,0,Obsidian
+84,False,MIN,10,10,RetainerTaskParameter#10,1,60,7400,0,72,0,30,0,Potter's Clay
+85,False,MIN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Fine Sand
+86,False,MIN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Copper Sand
+87,False,MIN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Rock Salt
+88,False,MIN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Ragstone
+89,False,MIN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Iron Ore
+90,False,MIN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Iron Sand
+91,False,MIN,15,15,RetainerTaskParameter#15,1,60,13100,0,72,0,45,0,Cinnabar
+92,False,MIN,16,16,RetainerTaskParameter#16,1,60,17400,0,72,0,58,0,Raw Malachite
+93,False,MIN,17,17,RetainerTaskParameter#17,1,60,17400,0,72,0,60,0,Raw Sphene
+94,False,MIN,17,17,RetainerTaskParameter#17,1,60,17400,0,72,0,60,0,Raw Fluorite
+95,False,MIN,17,17,RetainerTaskParameter#17,1,60,17400,0,72,0,60,0,Limestone
+96,False,MIN,18,18,RetainerTaskParameter#18,1,60,21900,0,72,0,62,0,Raw Danburite
+97,False,MIN,19,19,RetainerTaskParameter#19,1,60,21900,0,72,0,63,0,Sunrise Tellin
+98,False,MIN,19,19,RetainerTaskParameter#19,1,60,21900,0,72,0,63,0,Alumen
+100,False,MIN,20,20,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Mudstone
+101,False,MIN,21,21,RetainerTaskParameter#21,1,60,24900,0,72,0,75,0,Earth Rock
+102,False,MIN,22,22,RetainerTaskParameter#22,1,60,26100,0,72,0,78,0,Silver Sand
+103,False,MIN,23,23,RetainerTaskParameter#23,1,60,26100,0,72,0,81,0,Fire Rock
+104,False,MIN,23,23,RetainerTaskParameter#23,1,60,26100,0,72,0,81,0,Ice Rock
+105,False,MIN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Effervescent Water
+106,False,MIN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Wind Rock
+107,False,MIN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Lightning Rock
+108,False,MIN,25,25,RetainerTaskParameter#25,1,60,27200,0,72,0,87,0,Silver Ore
+109,False,MIN,25,25,RetainerTaskParameter#25,1,60,27200,0,72,0,87,0,Water Rock
+110,False,MIN,26,26,RetainerTaskParameter#26,1,60,32100,0,72,0,90,0,Bomb Ash
+111,False,MIN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Fire Crystal
+112,False,MIN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Ice Crystal
+113,False,MIN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Wind Crystal
+114,False,MIN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Earth Crystal
+115,False,MIN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Lightning Crystal
+116,False,MIN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Water Crystal
+117,False,MIN,27,27,RetainerTaskParameter#27,1,60,32100,0,72,0,92,0,Silex
+118,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Wyvern Obsidian
+119,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Blue Pigment
+120,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Red Pigment
+121,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Yellow Pigment
+122,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Grey Pigment
+123,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Brown Pigment
+124,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Green Pigment
+125,False,MIN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Purple Pigment
+126,False,MIN,29,29,RetainerTaskParameter#29,1,60,34500,0,72,0,96,0,Brimstone
+128,False,MIN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Siltstone
+129,False,MIN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Grade 1 La Noscean Topsoil
+130,False,MIN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Grade 1 Shroud Topsoil
+131,False,MIN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Grade 1 Thanalan Topsoil
+132,False,MIN,31,31,RetainerTaskParameter#31,1,60,35200,0,72,0,101,0,Raw Garnet
+133,False,MIN,31,31,RetainerTaskParameter#31,1,60,35200,0,72,0,101,0,Granite
+134,False,MIN,32,32,RetainerTaskParameter#32,1,60,38600,0,72,0,103,0,Raw Heliodor
+135,False,MIN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,Raw Goshenite
+136,False,MIN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,Raw Peridot
+137,False,MIN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,Mythril Sand
+138,False,MIN,34,34,RetainerTaskParameter#34,1,60,40800,0,72,0,107,0,Mythril Ore
+139,False,MIN,34,34,RetainerTaskParameter#34,1,60,40800,0,72,0,107,0,Raw Amethyst
+140,False,MIN,35,35,RetainerTaskParameter#35,1,60,40800,0,72,0,109,0,Raw Aquamarine
+141,False,MIN,36,36,RetainerTaskParameter#36,1,60,44800,0,72,0,112,0,Raw Tourmaline
+142,False,MIN,37,37,RetainerTaskParameter#37,1,60,44800,0,72,0,113,0,Raw Spinel
+143,False,MIN,38,38,RetainerTaskParameter#38,1,60,49000,0,72,0,116,0,Raw Zircon
+144,False,MIN,39,39,RetainerTaskParameter#39,1,60,49000,0,72,0,118,0,Jade
+145,False,MIN,40,40,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Black Alumen
+146,False,MIN,40,40,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Grenade Ash
+147,False,MIN,40,46,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Grade 2 La Noscean Topsoil
+148,False,MIN,40,46,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Grade 2 Shroud Topsoil
+149,False,MIN,40,46,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Grade 2 Thanalan Topsoil
+150,False,MIN,41,41,RetainerTaskParameter#41,1,60,52600,0,72,0,125,0,Raw Turquoise
+151,False,MIN,42,42,RetainerTaskParameter#42,1,60,54200,0,72,0,127,0,Electrum Sand
+152,False,MIN,43,43,RetainerTaskParameter#43,1,60,54200,0,72,0,129,0,Electrum Ore
+153,False,MIN,44,44,RetainerTaskParameter#44,1,60,55700,0,72,0,131,0,Raw Amber
+154,False,MIN,45,45,RetainerTaskParameter#45,1,60,55700,0,72,0,133,0,Raw Rubellite
+155,False,MIN,45,45,RetainerTaskParameter#45,1,60,55700,0,72,0,133,0,Marble
+156,False,MIN,46,46,RetainerTaskParameter#46,1,60,61900,0,72,0,140,0,Basilisk Egg
+157,False,MIN,47,47,RetainerTaskParameter#47,1,60,61900,0,72,0,142,0,Cobalt Ore
+158,False,MIN,48,49,RetainerTaskParameter#48,1,60,66400,0,72,0,144,0,Adamantoise Shell
+159,False,MIN,49,50,RetainerTaskParameter#49,1,60,66400,0,72,0,147,0,Ogre Horn
+356,True,MIN,1,0,RetainerTaskParameter#1,2,1080,4900,0,0,0,0,0,Highland Exploration I
+357,True,MIN,5,0,RetainerTaskParameter#1,2,1080,19900,0,0,0,0,0,Highland Exploration II
+358,True,MIN,10,0,RetainerTaskParameter#1,2,1080,45200,0,72,0,30,0,Highland Exploration III
+359,True,MIN,15,0,RetainerTaskParameter#1,2,1080,87600,0,72,0,45,0,Highland Exploration IV
+360,True,MIN,20,0,RetainerTaskParameter#1,2,1080,106600,0,72,0,65,0,Highland Exploration V
+361,True,MIN,25,0,RetainerTaskParameter#1,2,1080,138100,0,72,0,87,0,Highland Exploration VI
+362,True,MIN,30,0,RetainerTaskParameter#1,2,1080,158300,0,72,0,99,0,Highland Exploration VII
+363,True,MIN,35,0,RetainerTaskParameter#1,2,1080,195900,0,72,0,109,0,Highland Exploration VIII
+364,True,MIN,40,0,RetainerTaskParameter#1,2,1080,220000,0,72,0,120,0,Highland Exploration IX
+365,True,MIN,45,0,RetainerTaskParameter#1,2,1080,265600,0,72,0,133,0,Highland Exploration X
+366,True,MIN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,230,0,Highland Exploration XI
+367,True,MIN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,238,0,Highland Exploration XII
+368,True,MIN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,285,0,Highland Exploration XIII
+397,True,MIN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,286,0,Highland Exploration XIV
+401,True,MIN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,292,0,Highland Exploration XV
+405,True,MIN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,294,0,Highland Exploration XVI
+409,True,MIN,51,0,RetainerTaskParameter#1,2,1080,680900,0,72,0,311,0,Highland Exploration XVII
+413,True,MIN,55,0,RetainerTaskParameter#1,2,1080,988600,0,72,0,388,0,Highland Exploration XVIII
+444,False,MIN,51,80,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Dragon Obsidian
+445,False,MIN,51,120,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Mythrite Sand
+446,False,MIN,51,120,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Raw Agate
+447,False,MIN,52,125,RetainerTaskParameter#125,1,60,154200,0,72,0,314,0,Raw Tiger's Eye
+448,False,MIN,53,130,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Raw Larimar
+449,False,MIN,54,133,RetainerTaskParameter#133,1,60,186000,0,72,0,363,0,Dravanian Spring Water
+450,False,MIN,54,133,RetainerTaskParameter#133,1,60,186000,0,72,0,363,0,Raw Mormorion
+451,False,MIN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Raw Star Sapphire
+452,False,MIN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Raw Star Ruby
+453,False,MIN,56,139,RetainerTaskParameter#139,1,60,216800,0,72,0,389,0,Hardsilver Sand
+454,False,MIN,57,142,RetainerTaskParameter#142,1,60,216800,0,72,0,392,0,Raw Opal
+455,False,MIN,57,142,RetainerTaskParameter#142,1,60,216800,0,72,0,392,0,Abalathian Spring Water
+456,False,MIN,58,145,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Cloud Mica
+457,False,MIN,58,145,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Raw Carnelian
+458,False,MIN,59,148,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Raw Citrine
+459,False,MIN,59,148,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Aurum Regis Sand
+460,False,MIN,60,150,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Raw Chrysolite
+461,False,MIN,60,150,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Wyrm Obsidian
+500,False,MIN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Saltpeter
+506,False,MIN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Grade 3 La Noscean Topsoil
+507,False,MIN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Grade 3 Shroud Topsoil
+508,False,MIN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Grade 3 Thanalan Topsoil
+509,False,MIN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Gold Ore
+510,False,MIN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Darksteel Ore
+511,False,MIN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Volcanic Rock Salt
+512,False,MIN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Astral Rock
+513,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Raw Ruby
+514,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Ferberite
+515,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Native Gold
+529,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Raw Diamond
+530,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Raw Emerald
+531,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Raw Topaz
+532,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Raw Iolite
+533,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Raw Sapphire
+536,False,MIN,50,80,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Platinum Ore
+538,False,MIN,50,80,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Pumice
+540,False,MIN,50,50,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Black Limestone
+541,False,MIN,50,90,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Virgin Basilisk Egg
+543,False,MIN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Gregarious Worm
+545,False,MIN,53,130,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Mythrite Ore
+546,False,MIN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Titanium Ore
+547,False,MIN,58,145,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Hardsilver Ore
+553,True,MIN,60,0,RetainerTaskParameter#1,2,1080,1109600,0,72,0,486,0,Highland Exploration XIX
+556,False,MIN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Gold Sand
+575,False,MIN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Unaspected Crystal
+577,False,MIN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Dark Matter Cluster
+579,True,MIN,61,0,RetainerTaskParameter#1,2,1080,1109700,0,72,0,700,0,Highland Exploration XX
+583,True,MIN,65,0,RetainerTaskParameter#1,2,1080,1133300,0,72,0,739,0,Highland Exploration XXI
+586,False,MIN,60,0,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Adamantite Ore
+587,False,MIN,50,0,RetainerTaskParameter#80,1,60,122000,0,72,0,149,0,Yellow Copper Ore
+588,False,MIN,51,0,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Pyrite
+589,False,MIN,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,314,0,Yellow Quartz
+590,False,MIN,53,0,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Chalcocite
+591,False,MIN,54,0,RetainerTaskParameter#133,1,60,186000,0,72,0,363,0,Limonite
+592,False,MIN,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Green Quartz
+593,False,MIN,56,0,RetainerTaskParameter#139,1,60,216800,0,72,0,389,0,Abalathian Rock Salt
+594,False,MIN,57,0,RetainerTaskParameter#142,1,60,216800,0,72,0,392,0,Light Kidney Ore
+595,False,MIN,58,0,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Red Quartz
+596,False,MIN,59,0,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Cuprite
+597,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Aurum Regis Ore
+598,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Sun Mica
+599,False,MIN,60,0,RetainerTaskParameter#175,1,60,251000,0,72,0,602,0,Red Alumen
+600,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Astral Moraine
+601,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Violet Quartz
+602,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Blue Quartz
+628,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Lumythrite Sand
+629,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Smithsonite Ore
+630,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Beastkin Horn
+631,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Meteorite
+643,False,MIN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Tungstite
+644,False,MIN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Luminium Ore
+645,False,MIN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Zeolite Ore
+646,False,MIN,60,0,RetainerTaskParameter#190,1,60,251000,0,72,0,644,0,Gyr Abanian Alumen
+647,False,MIN,60,0,RetainerTaskParameter#190,1,60,251000,0,72,0,644,0,Raw Triphane
+648,False,MIN,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,700,0,Gyr Abanian Mineral Water
+649,False,MIN,62,0,RetainerTaskParameter#210,1,60,261500,0,72,0,714,0,Raw Kyanite
+650,False,MIN,63,0,RetainerTaskParameter#215,1,60,261500,0,72,0,728,0,Koppranickel Ore
+651,False,MIN,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,734,0,Crescent Spring Water
+652,False,MIN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Raw Star Spinel
+653,False,MIN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Doman Iron Ore
+654,False,MIN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Raw Azurite
+655,False,MIN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Durium Ore
+656,False,MIN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Raw Imperial Jade
+657,False,MIN,70,0,RetainerTaskParameter#290,1,60,301800,0,72,0,805,0,Molybdenum Ore
+658,False,MIN,70,0,RetainerTaskParameter#290,1,60,301800,0,72,0,805,0,Raw Rhodonite
+659,False,MIN,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,700,0,Stiperstone
+660,False,MIN,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,700,0,Koppranickel Sand
+661,False,MIN,62,0,RetainerTaskParameter#210,1,60,261500,0,72,0,714,0,Slate
+662,False,MIN,63,0,RetainerTaskParameter#215,1,60,261500,0,72,0,728,0,Diatomite
+663,False,MIN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Durium Sand
+664,False,MIN,67,0,RetainerTaskParameter#245,1,60,265800,0,72,0,759,0,Doman Iron Sand
+665,False,MIN,69,0,RetainerTaskParameter#275,1,60,283300,0,72,0,790,0,Palladium Sand
+666,False,MIN,69,0,RetainerTaskParameter#275,1,60,283300,0,72,0,790,0,Ala Mhigan Salt Crystal
+739,False,MIN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Lumythrite Ore
+741,True,MIN,70,0,RetainerTaskParameter#1,2,1080,1169200,0,72,0,805,0,Highland Exploration XXII
+744,False,MIN,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Palladium Ore
+745,False,MIN,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Chromite Ore
+748,False,MIN,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Gyr Abanian Spring Water
+751,False,MIN,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Nightsteel Ore
+752,False,MIN,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Silvergrace Ore
+756,False,MIN,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Hawk's Eye
+758,False,MIN,70,350,RetainerTaskParameter#350,1,60,301800,0,72,0,1015,0,Azim Spring Water
+759,False,MIN,70,350,RetainerTaskParameter#350,1,60,301800,0,72,0,1155,0,Gyr Abanian Ore
+760,False,MIN,70,355,RetainerTaskParameter#355,1,60,301800,0,72,0,1155,0,Evergleam Ore
+764,True,MIN,71,0,RetainerTaskParameter#1,2,1080,1412800,0,72,0,1190,0,Highland Exploration XXIII
+768,True,MIN,75,0,RetainerTaskParameter#1,2,1080,2102400,0,72,0,1294,0,Highland Exploration XXIV
+788,False,MIN,70,0,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Raw Hematite
+789,False,MIN,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,1225,0,Raw Diaspore
+790,False,MIN,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,1225,0,Truegold Ore
+791,False,MIN,73,0,RetainerTaskParameter#355,1,60,332400,0,72,0,1235,0,Highland Spring Water
+792,False,MIN,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1260,0,Raw Lazurite
+793,False,MIN,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1260,0,Bluespirit Ore
+794,False,MIN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Extra Effervescent Water
+795,False,MIN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Raw Triplite
+796,False,MIN,77,0,RetainerTaskParameter#400,1,60,437700,0,72,0,1360,0,Titancopper Ore
+797,False,MIN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Underground Spring Water
+798,False,MIN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Raw Petalite
+799,False,MIN,80,0,RetainerTaskParameter#430,1,60,599200,0,72,0,1459,0,Dimythrite Ore
+800,False,MIN,70,0,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Yellow Alumen
+801,False,MIN,70,0,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Coarse Saltpeter
+802,False,MIN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Hard Mudstone
+803,False,MIN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Truegold Sand
+804,False,MIN,75,0,RetainerTaskParameter#380,1,60,377100,0,72,0,1294,0,Manasilver Sand
+805,False,MIN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Volcanic Tuff
+806,False,MIN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Titancopper Sand
+807,False,MIN,79,0,RetainerTaskParameter#420,1,60,525600,0,72,0,1426,0,Dimythrite Sand
+852,True,MIN,80,0,RetainerTaskParameter#1,2,1080,2396800,0,72,0,1459,0,Highland Exploration XXV
+855,False,MIN,80,430,RetainerTaskParameter#430,1,60,599200,0,72,0,1459,0,Raw Onyx
+856,False,MIN,80,440,RetainerTaskParameter#440,1,60,599200,0,72,0,1528,0,Prismstone
+857,False,MIN,80,440,RetainerTaskParameter#440,1,60,599200,0,72,0,1528,0,Tungsten Ore
+861,False,MIN,80,441,RetainerTaskParameter#440,1,60,599200,0,72,0,1528,0,Beryllium Ore
+864,False,MIN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Fireheart Cobalt
+865,False,MIN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Purpure Shell Chip
+866,False,MIN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Ashen Alumen
+870,False,MIN,80,461,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Brashgold Ore
+873,False,MIN,59,0,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Tektite
+874,False,MIN,60,0,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Eventide Jade
+875,False,MIN,56,0,RetainerTaskParameter#139,1,60,216800,0,72,0,389,0,Fossilized Dragon Bone
+882,True,MIN,81,0,RetainerTaskParameter#1,2,1080,3179200,0,72,0,1815,0,Highland Exploration XXVI
+883,True,MIN,85,0,RetainerTaskParameter#1,2,1080,4335200,0,72,0,2027,0,Highland Exploration XXVII
+889,False,MIN,80,490,RetainerTaskParameter#490,1,60,599200,0,72,0,1782,0,Dolomite
+890,False,MIN,80,490,RetainerTaskParameter#490,1,60,599200,0,72,0,1782,0,Solstice Stone
+893,False,MIN,80,490,RetainerTaskParameter#490,1,60,599200,0,72,0,1782,0,Hard Water
+894,False,MIN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Raw Ametrine
+895,False,MIN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Sharlayan Rock Salt
+896,False,MIN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,High Durium Sand
+897,False,MIN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Chloroschist
+898,False,MIN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,High Durium Ore
+899,False,MIN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,Pewter Ore
+900,False,MIN,83,0,RetainerTaskParameter#510,1,60,794800,0,72,0,1914,0,Phrygian Gold Ore
+901,False,MIN,84,0,RetainerTaskParameter#520,1,60,794800,0,72,0,1980,0,Eblan Alumen
+902,False,MIN,85,0,RetainerTaskParameter#527,1,60,828700,0,72,0,2027,0,Bismuth Ore
+903,False,MIN,86,0,RetainerTaskParameter#534,1,60,923100,0,72,0,2073,0,Manganese Ore
+904,False,MIN,86,0,RetainerTaskParameter#534,1,60,923100,0,72,0,2073,0,Raw Blue Zircon
+905,False,MIN,87,0,RetainerTaskParameter#540,1,60,952900,0,72,0,2119,0,Annite
+906,False,MIN,88,0,RetainerTaskParameter#547,1,60,1045900,0,72,0,2165,0,Ambrosial Water
+907,False,MIN,89,0,RetainerTaskParameter#554,1,60,1083800,0,72,0,2211,0,Chondrite
+908,False,MIN,90,560,RetainerTaskParameter#560,1,60,1327800,0,72,0,2258,0,Raw Star Quartz
+962,True,MIN,90,0,RetainerTaskParameter#1,2,1080,5311200,0,72,0,2258,0,Highland Exploration XXVIII
+965,False,MIN,90,560,RetainerTaskParameter#560,1,60,1327800,0,72,0,2258,0,Stonehard Water
+966,False,MIN,90,570,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Rime Dolomite
+967,False,MIN,90,570,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Lunar Adamantite Ore
+968,False,MIN,90,570,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Rhodium Sand
+973,False,MIN,90,580,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Raw Eblan Danburite
+975,False,MIN,90,600,RetainerTaskParameter#600,1,60,1327800,0,72,0,2565,0,Raw Rutilated Quartz
+976,False,MIN,90,600,RetainerTaskParameter#600,1,60,1327800,0,72,0,2565,0,Ilmenite
+977,False,MIN,90,600,RetainerTaskParameter#600,1,60,1327800,0,72,0,2565,0,Ash Diatomite

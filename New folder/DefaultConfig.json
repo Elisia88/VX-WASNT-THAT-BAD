@@ -1,0 +1,2827 @@
+﻿{
+  "CensorSeed": "b7061e1c-a231-409d-8388-82318d62c0d2",
+  "SelectedRetainers": {
+    "18014598550432470": [
+      "Mi'oka",
+      "Ak'ane-san",
+      "Kag'a",
+      "Mus'hashi",
+      "Yama'to",
+      "Kon'go",
+      "Aka'gi",
+      "A'kagi",
+      "My'ogi"
+    ],
+    "18014598552285977": [
+      "Furutaka",
+      "Ka'ko",
+      "Aob'a",
+      "Kinugasa",
+      "Myoukou",
+      "Nach'i",
+      "Tak'ao",
+      "Haguro",
+      "Ashi'gara"
+    ],
+    "18014598551944423": [
+      "Tokitsuk'aze",
+      "Shimak'aze",
+      "Harek'aze",
+      "Kamik'aze",
+      "Namik'aze",
+      "Yuk'aze",
+      "Yukik'aze",
+      "Minek'aze",
+      "Akatsu'ki"
+    ]
+  },
+  "EnableAssigningQuickExploration": false,
+  "Verbose": true,
+  "OfflineData": [
+    {
+      "CreationFrame": 1,
+      "CID": 18014598550432470,
+      "Name": "Elina Snow",
+      "World": "Cerberus",
+      "WorldOverride": null,
+      "Enabled": true,
+      "RetainerData": [
+        {
+          "CreationFrame": 1529787,
+          "Name": "Mi'oka",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 6,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "Ak'ane-san",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 6,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 1,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "Kag'a",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 6,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 2,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "A'kagi",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 16,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 3,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "My'ogi",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 16,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 5,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "Aka'gi",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 16,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 4,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "Kon'go",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 17,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 7,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "Yama'to",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 17,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 6,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1529787,
+          "Name": "Mus'hashi",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 90,
+          "VentureBeginsAt": 0,
+          "Job": 17,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 8,
+          "ShouldSerializeCreationFrame": false
+        }
+      ],
+      "Preferred": false,
+      "Ventures": 825,
+      "InventorySpace": 96,
+      "VentureCoffers": 0,
+      "ServiceAccount": 0,
+      "ShowRetainersInDisplayOrder": true,
+      "GCDeliveryType": 1,
+      "UnlockedGatheringItems": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        24,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        37,
+        38,
+        39,
+        41,
+        42,
+        45,
+        46,
+        47,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        109,
+        110,
+        111,
+        112,
+        114,
+        115,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        127,
+        128,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        139,
+        140,
+        141,
+        144,
+        145,
+        147,
+        149,
+        150,
+        151,
+        152,
+        156,
+        160,
+        161,
+        164,
+        166,
+        170,
+        174,
+        179,
+        180,
+        181,
+        184,
+        186,
+        187,
+        190,
+        192,
+        194,
+        196,
+        198,
+        199,
+        202,
+        205,
+        207,
+        210,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        224,
+        238,
+        255,
+        266,
+        267,
+        270,
+        271,
+        274,
+        277,
+        278,
+        279,
+        280,
+        283,
+        289,
+        290,
+        292,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        321,
+        323,
+        324,
+        326,
+        327,
+        329,
+        330,
+        331,
+        332,
+        342,
+        343,
+        344,
+        345,
+        346,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        364,
+        366,
+        367,
+        368,
+        369,
+        374,
+        376,
+        377,
+        378,
+        380,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        396,
+        398,
+        400,
+        401,
+        402,
+        403,
+        405,
+        406,
+        407,
+        409,
+        417,
+        425,
+        426,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        435,
+        436,
+        440,
+        441,
+        445,
+        446,
+        447,
+        449,
+        451,
+        452,
+        453,
+        456,
+        457,
+        458,
+        459,
+        463,
+        465,
+        470,
+        474,
+        475,
+        480,
+        482,
+        483,
+        486,
+        487,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        501,
+        503,
+        528,
+        531,
+        532,
+        533,
+        534,
+        536,
+        537,
+        539,
+        542,
+        543,
+        544,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        558,
+        560,
+        561,
+        562,
+        563,
+        565,
+        566,
+        567,
+        569,
+        571,
+        572,
+        573,
+        574,
+        576,
+        577,
+        578,
+        580,
+        581,
+        582,
+        584,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        597,
+        598,
+        599,
+        600,
+        631,
+        632,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        695,
+        706,
+        707,
+        709,
+        710,
+        711,
+        717,
+        718,
+        719,
+        720,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730
+      ],
+      "ClassJobLevelArray": [
+        0,
+        60,
+        0,
+        90,
+        0,
+        80,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        56,
+        90,
+        0,
+        90,
+        90,
+        51,
+        62,
+        90,
+        0,
+        86,
+        90
+      ],
+      "Gil": 11321831,
+      "ShouldSerializeCreationFrame": false
+    },
+    {
+      "CreationFrame": 1,
+      "CID": 18014598552285977,
+      "Name": "Lux Anima",
+      "World": "Cerberus",
+      "WorldOverride": null,
+      "Enabled": false,
+      "RetainerData": [
+        {
+          "CreationFrame": 1,
+          "Name": "Furutaka",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 44,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 65553,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Ka'ko",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 44,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Aob'a",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 44,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Kinugasa",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 44,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Myoukou",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 44,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Nach'i",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 43,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Ashi'gara",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 43,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Haguro",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 43,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Tak'ao",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 43,
+          "VentureBeginsAt": 0,
+          "Job": 26,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        }
+      ],
+      "Preferred": false,
+      "Ventures": 1,
+      "InventorySpace": 90,
+      "VentureCoffers": 0,
+      "ServiceAccount": 0,
+      "ShowRetainersInDisplayOrder": true,
+      "GCDeliveryType": 2,
+      "UnlockedGatheringItems": [],
+      "ClassJobLevelArray": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        52,
+        0,
+        0,
+        30,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Gil": 6366625,
+      "ShouldSerializeCreationFrame": false
+    },
+    {
+      "CreationFrame": 1,
+      "CID": 18014598551944423,
+      "Name": "Alicia Taranogas",
+      "World": "Cerberus",
+      "WorldOverride": null,
+      "Enabled": false,
+      "RetainerData": [
+        {
+          "CreationFrame": 1,
+          "Name": "Shimak'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 40,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Tokitsuk'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 388,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Harek'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 105,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Kamik'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Yuk'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Namik'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Yukik'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Minek'aze",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        },
+        {
+          "CreationFrame": 1,
+          "Name": "Akatsu'ki",
+          "VentureEndsAt": 0,
+          "HasVenture": false,
+          "Level": 39,
+          "VentureBeginsAt": 0,
+          "Job": 29,
+          "VentureID": 0,
+          "Gil": 0,
+          "DisplayOrder": 0,
+          "ShouldSerializeCreationFrame": false
+        }
+      ],
+      "Preferred": false,
+      "Ventures": 1,
+      "InventorySpace": 55,
+      "VentureCoffers": 0,
+      "ServiceAccount": 1,
+      "ShowRetainersInDisplayOrder": true,
+      "GCDeliveryType": 1,
+      "UnlockedGatheringItems": [
+        3,
+        4,
+        5,
+        7,
+        8,
+        24,
+        38,
+        39,
+        45,
+        49,
+        50,
+        51,
+        54,
+        60,
+        65,
+        66,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        77,
+        80,
+        83,
+        84,
+        88,
+        89,
+        91,
+        93,
+        94,
+        99,
+        104,
+        109,
+        110,
+        112,
+        114,
+        126,
+        128,
+        130,
+        131,
+        133,
+        135,
+        136,
+        137,
+        141,
+        150,
+        152,
+        170,
+        179,
+        184,
+        187,
+        190,
+        193,
+        196,
+        198,
+        202,
+        210,
+        213,
+        299,
+        301,
+        304,
+        342,
+        343,
+        344,
+        368,
+        369
+      ],
+      "ClassJobLevelArray": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        67,
+        67,
+        54,
+        55,
+        56,
+        60,
+        55,
+        58,
+        60,
+        56,
+        61,
+        0,
+        80,
+        0,
+        0,
+        80,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Gil": 2911004,
+      "ShouldSerializeCreationFrame": false
+    }
+  ],
+  "MultiWaitForAll": true,
+  "NoNames": false,
+  "UnsyncCompensation": -5,
+  "AdvanceTimer": 60,
+  "StatsUnifyHQ": false,
+  "RecordStats": false,
+  "GCHandinNotify": true,
+  "MultiAllowHET": true,
+  "MultiHETOnEnable": true,
+  "UseServerTime": true,
+  "NoTheme": true,
+  "AdditionalData": {
+    "#0040002E935EAAD6 Mi'oka": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 C",
+        "List": [
+          {
+            "ID": 781,
+            "Num": 3
+          },
+          {
+            "ID": 938,
+            "Num": 3
+          },
+          {
+            "ID": 939,
+            "Num": 4
+          },
+          {
+            "ID": 947,
+            "Num": 3
+          },
+          {
+            "ID": 941,
+            "Num": 1
+          },
+          {
+            "ID": 773,
+            "Num": 3
+          },
+          {
+            "ID": 63,
+            "Num": 2
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          781,
+          781,
+          781,
+          938,
+          938,
+          938,
+          939,
+          939,
+          939,
+          939,
+          947,
+          947,
+          947,
+          941,
+          773,
+          773,
+          773,
+          63,
+          63
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 580,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 Ak'ane-san": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 C",
+        "List": [
+          {
+            "ID": 781,
+            "Num": 3
+          },
+          {
+            "ID": 938,
+            "Num": 3
+          },
+          {
+            "ID": 939,
+            "Num": 4
+          },
+          {
+            "ID": 947,
+            "Num": 3
+          },
+          {
+            "ID": 941,
+            "Num": 1
+          },
+          {
+            "ID": 773,
+            "Num": 3
+          },
+          {
+            "ID": 63,
+            "Num": 2
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          781,
+          781,
+          781,
+          938,
+          938,
+          938,
+          939,
+          939,
+          939,
+          939,
+          947,
+          947,
+          947,
+          941,
+          773,
+          773,
+          773,
+          63,
+          63
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 580,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 Kag'a": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 C",
+        "List": [
+          {
+            "ID": 781,
+            "Num": 3
+          },
+          {
+            "ID": 938,
+            "Num": 3
+          },
+          {
+            "ID": 939,
+            "Num": 4
+          },
+          {
+            "ID": 947,
+            "Num": 3
+          },
+          {
+            "ID": 941,
+            "Num": 1
+          },
+          {
+            "ID": 773,
+            "Num": 3
+          },
+          {
+            "ID": 63,
+            "Num": 2
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          781,
+          781,
+          781,
+          938,
+          938,
+          938,
+          939,
+          939,
+          939,
+          939,
+          947,
+          947,
+          947,
+          941,
+          773,
+          773,
+          773,
+          63,
+          63
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 580,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 A'kagi": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 M",
+        "List": [
+          {
+            "ID": 593,
+            "Num": 1
+          },
+          {
+            "ID": 82,
+            "Num": 1
+          },
+          {
+            "ID": 449,
+            "Num": 1
+          },
+          {
+            "ID": 657,
+            "Num": 1
+          },
+          {
+            "ID": 797,
+            "Num": 1
+          },
+          {
+            "ID": 799,
+            "Num": 1
+          },
+          {
+            "ID": 900,
+            "Num": 3
+          },
+          {
+            "ID": 901,
+            "Num": 1
+          },
+          {
+            "ID": 903,
+            "Num": 7
+          },
+          {
+            "ID": 905,
+            "Num": 2
+          },
+          {
+            "ID": 908,
+            "Num": 2
+          },
+          {
+            "ID": 907,
+            "Num": 5
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          593,
+          82,
+          449,
+          657,
+          797,
+          799,
+          900,
+          900,
+          900,
+          901,
+          903,
+          903,
+          903,
+          903,
+          903,
+          903,
+          903,
+          905,
+          905,
+          908,
+          908,
+          907,
+          907,
+          907,
+          907,
+          907
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 577,
+      "Gathering": 3232,
+      "Perception": 3232,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 My'ogi": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 M",
+        "List": [
+          {
+            "ID": 593,
+            "Num": 1
+          },
+          {
+            "ID": 82,
+            "Num": 1
+          },
+          {
+            "ID": 449,
+            "Num": 1
+          },
+          {
+            "ID": 657,
+            "Num": 1
+          },
+          {
+            "ID": 797,
+            "Num": 1
+          },
+          {
+            "ID": 799,
+            "Num": 1
+          },
+          {
+            "ID": 900,
+            "Num": 3
+          },
+          {
+            "ID": 901,
+            "Num": 1
+          },
+          {
+            "ID": 903,
+            "Num": 7
+          },
+          {
+            "ID": 905,
+            "Num": 2
+          },
+          {
+            "ID": 908,
+            "Num": 2
+          },
+          {
+            "ID": 907,
+            "Num": 5
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          593,
+          82,
+          449,
+          657,
+          797,
+          799,
+          900,
+          900,
+          900,
+          901,
+          903,
+          903,
+          903,
+          903,
+          903,
+          903,
+          903,
+          905,
+          905,
+          908,
+          908,
+          907,
+          907,
+          907,
+          907,
+          907
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 577,
+      "Gathering": 3232,
+      "Perception": 3232,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 Aka'gi": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 M",
+        "List": [
+          {
+            "ID": 593,
+            "Num": 1
+          },
+          {
+            "ID": 82,
+            "Num": 1
+          },
+          {
+            "ID": 449,
+            "Num": 1
+          },
+          {
+            "ID": 657,
+            "Num": 1
+          },
+          {
+            "ID": 797,
+            "Num": 1
+          },
+          {
+            "ID": 799,
+            "Num": 1
+          },
+          {
+            "ID": 900,
+            "Num": 3
+          },
+          {
+            "ID": 901,
+            "Num": 1
+          },
+          {
+            "ID": 903,
+            "Num": 7
+          },
+          {
+            "ID": 905,
+            "Num": 2
+          },
+          {
+            "ID": 908,
+            "Num": 2
+          },
+          {
+            "ID": 907,
+            "Num": 5
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          593,
+          82,
+          449,
+          657,
+          797,
+          799,
+          900,
+          900,
+          900,
+          901,
+          903,
+          903,
+          903,
+          903,
+          903,
+          903,
+          903,
+          905,
+          905,
+          908,
+          908,
+          907,
+          907,
+          907,
+          907,
+          907
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 577,
+      "Gathering": 3232,
+      "Perception": 3232,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 Kon'go": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 B",
+        "List": [
+          {
+            "ID": 466,
+            "Num": 1
+          },
+          {
+            "ID": 836,
+            "Num": 1
+          },
+          {
+            "ID": 916,
+            "Num": 2
+          },
+          {
+            "ID": 925,
+            "Num": 2
+          },
+          {
+            "ID": 924,
+            "Num": 5
+          },
+          {
+            "ID": 930,
+            "Num": 3
+          },
+          {
+            "ID": 931,
+            "Num": 3
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          466,
+          836,
+          916,
+          916,
+          925,
+          925,
+          924,
+          924,
+          924,
+          924,
+          924,
+          930,
+          930,
+          930,
+          931,
+          931,
+          931
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 11,
+      "EnablePlanner": false,
+      "Ilvl": 577,
+      "Gathering": 3232,
+      "Perception": 3232,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 Yama'to": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 B",
+        "List": [
+          {
+            "ID": 466,
+            "Num": 1
+          },
+          {
+            "ID": 836,
+            "Num": 1
+          },
+          {
+            "ID": 916,
+            "Num": 2
+          },
+          {
+            "ID": 925,
+            "Num": 2
+          },
+          {
+            "ID": 924,
+            "Num": 5
+          },
+          {
+            "ID": 930,
+            "Num": 3
+          },
+          {
+            "ID": 931,
+            "Num": 3
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          466,
+          836,
+          916,
+          916,
+          925,
+          925,
+          924,
+          924,
+          924,
+          924,
+          924,
+          930,
+          930,
+          930,
+          931,
+          931,
+          931
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 11,
+      "EnablePlanner": false,
+      "Ilvl": 577,
+      "Gathering": 3232,
+      "Perception": 3232,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E935EAAD6 Mus'hashi": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "P4 B",
+        "List": [
+          {
+            "ID": 466,
+            "Num": 1
+          },
+          {
+            "ID": 836,
+            "Num": 1
+          },
+          {
+            "ID": 916,
+            "Num": 2
+          },
+          {
+            "ID": 925,
+            "Num": 2
+          },
+          {
+            "ID": 924,
+            "Num": 5
+          },
+          {
+            "ID": 930,
+            "Num": 3
+          },
+          {
+            "ID": 931,
+            "Num": 3
+          }
+        ],
+        "PlanCompleteBehavior": 2,
+        "ListUnwrapped": [
+          466,
+          836,
+          916,
+          916,
+          925,
+          925,
+          924,
+          924,
+          924,
+          924,
+          924,
+          930,
+          930,
+          930,
+          931,
+          931,
+          931
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 11,
+      "EnablePlanner": false,
+      "Ilvl": 577,
+      "Gathering": 3232,
+      "Perception": 3232,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Shimak'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "a",
+        "List": [],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Tokitsuk'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Harek'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Kamik'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Yuk'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Namik'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Yukik'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Minek'aze": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E9375BCE7 Akatsu'ki": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "",
+        "List": [],
+        "PlanCompleteBehavior": 0,
+        "ListUnwrapped": []
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 0,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Furutaka": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 395,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          395
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Ka'ko": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 395,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          395
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Aob'a": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Kinugasa": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Myoukou": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Nach'i": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 4,
+            "Num": 1
+          },
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Ashi'gara": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 3,
+            "Num": 1
+          },
+          {
+            "ID": 4,
+            "Num": 1
+          },
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Haguro": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 3,
+            "Num": 1
+          },
+          {
+            "ID": 4,
+            "Num": 1
+          },
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    },
+    "#0040002E937AF319 Tak'ao": {
+      "CreationFrame": 1,
+      "EntrustDuplicates": false,
+      "WithdrawGil": false,
+      "WithdrawGilPercent": 100,
+      "Deposit": false,
+      "VenturePlan": {
+        "Name": "777",
+        "List": [
+          {
+            "ID": 3,
+            "Num": 1
+          },
+          {
+            "ID": 4,
+            "Num": 1
+          },
+          {
+            "ID": 5,
+            "Num": 1
+          },
+          {
+            "ID": 6,
+            "Num": 1
+          },
+          {
+            "ID": 7,
+            "Num": 1
+          },
+          {
+            "ID": 8,
+            "Num": 1
+          },
+          {
+            "ID": 9,
+            "Num": 1
+          },
+          {
+            "ID": 10,
+            "Num": 1
+          }
+        ],
+        "PlanCompleteBehavior": 1,
+        "ListUnwrapped": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "LinkedVenturePlan": "",
+      "VenturePlanIndex": 1,
+      "EnablePlanner": false,
+      "Ilvl": 0,
+      "Gathering": 0,
+      "Perception": 0,
+      "ShouldSerializeCreationFrame": false
+    }
+  },
+  "AutoDisable": true,
+  "Expert": true,
+  "Blacklist": [],
+  "HideOverlayIcons": false,
+  "UnsafeProtection": false,
+  "CharEqualize": false,
+  "TimerAllowNegative": true,
+  "LoginOverlay": true,
+  "LoginOverlayScale": 0.838,
+  "LoginOverlayBPadding": 1.35,
+  "OpenBellBehaviorNoVentures": 1,
+  "OpenBellBehaviorWithVentures": 1,
+  "TaskCompletedBehaviorAuto": 0,
+  "TaskCompletedBehaviorManual": 3,
+  "TaskCompletedBehaviorAccess": 3,
+  "Stay5": true,
+  "NoCurrentCharaOnTop": true,
+  "Delay": 250,
+  "_dontReassign": true,
+  "OldRetainerSense": false,
+  "RetainerSense": true,
+  "RetainerSenseThreshold": 5000,
+  "MultiModeUIBar": true,
+  "UIBar": true,
+  "Suppress": 162,
+  "TempCollectB": 160,
+  "RetainerMenuDelay": 250,
+  "SavedPlans": [
+    {
+      "Name": "WS ARM",
+      "List": [
+        {
+          "ID": 657,
+          "Num": 3
+        },
+        {
+          "ID": 799,
+          "Num": 5
+        },
+        {
+          "ID": 901,
+          "Num": 4
+        },
+        {
+          "ID": 903,
+          "Num": 20
+        },
+        {
+          "ID": 907,
+          "Num": 60
+        }
+      ],
+      "PlanCompleteBehavior": 2,
+      "ListUnwrapped": [
+        657,
+        657,
+        657,
+        799,
+        799,
+        799,
+        799,
+        799,
+        901,
+        901,
+        901,
+        901,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907,
+        907
+      ]
+    },
+    {
+      "Name": "WS ARM C",
+      "List": [
+        {
+          "ID": 947,
+          "Num": 32
+        }
+      ],
+      "PlanCompleteBehavior": 1,
+      "ListUnwrapped": [
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947,
+        947
+      ]
+    },
+    {
+      "Name": "WS CRP",
+      "List": [
+        {
+          "ID": 930,
+          "Num": 20
+        },
+        {
+          "ID": 931,
+          "Num": 20
+        }
+      ],
+      "PlanCompleteBehavior": 2,
+      "ListUnwrapped": [
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        930,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931,
+        931
+      ]
+    },
+    {
+      "Name": "P4 C",
+      "List": [
+        {
+          "ID": 781,
+          "Num": 3
+        },
+        {
+          "ID": 938,
+          "Num": 3
+        },
+        {
+          "ID": 939,
+          "Num": 4
+        },
+        {
+          "ID": 947,
+          "Num": 3
+        },
+        {
+          "ID": 941,
+          "Num": 1
+        },
+        {
+          "ID": 773,
+          "Num": 3
+        },
+        {
+          "ID": 63,
+          "Num": 2
+        }
+      ],
+      "PlanCompleteBehavior": 2,
+      "ListUnwrapped": [
+        781,
+        781,
+        781,
+        938,
+        938,
+        938,
+        939,
+        939,
+        939,
+        939,
+        947,
+        947,
+        947,
+        941,
+        773,
+        773,
+        773,
+        63,
+        63
+      ]
+    },
+    {
+      "Name": "P4 M",
+      "List": [
+        {
+          "ID": 593,
+          "Num": 1
+        },
+        {
+          "ID": 82,
+          "Num": 1
+        },
+        {
+          "ID": 449,
+          "Num": 1
+        },
+        {
+          "ID": 657,
+          "Num": 1
+        },
+        {
+          "ID": 797,
+          "Num": 1
+        },
+        {
+          "ID": 799,
+          "Num": 1
+        },
+        {
+          "ID": 900,
+          "Num": 3
+        },
+        {
+          "ID": 901,
+          "Num": 1
+        },
+        {
+          "ID": 903,
+          "Num": 7
+        },
+        {
+          "ID": 905,
+          "Num": 2
+        },
+        {
+          "ID": 908,
+          "Num": 2
+        },
+        {
+          "ID": 907,
+          "Num": 5
+        }
+      ],
+      "PlanCompleteBehavior": 2,
+      "ListUnwrapped": [
+        593,
+        82,
+        449,
+        657,
+        797,
+        799,
+        900,
+        900,
+        900,
+        901,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        903,
+        905,
+        905,
+        908,
+        908,
+        907,
+        907,
+        907,
+        907,
+        907
+      ]
+    },
+    {
+      "Name": "P4 B",
+      "List": [
+        {
+          "ID": 466,
+          "Num": 1
+        },
+        {
+          "ID": 836,
+          "Num": 1
+        },
+        {
+          "ID": 916,
+          "Num": 2
+        },
+        {
+          "ID": 925,
+          "Num": 2
+        },
+        {
+          "ID": 924,
+          "Num": 5
+        },
+        {
+          "ID": 930,
+          "Num": 3
+        },
+        {
+          "ID": 931,
+          "Num": 3
+        }
+      ],
+      "PlanCompleteBehavior": 2,
+      "ListUnwrapped": [
+        466,
+        836,
+        916,
+        916,
+        925,
+        925,
+        924,
+        924,
+        924,
+        924,
+        924,
+        930,
+        930,
+        930,
+        931,
+        931,
+        931
+      ]
+    }
+  ],
+  "MultiWaitOnLoginScreen": true,
+  "UnavailableVentureDisplay": 2,
+  "ShowAdditionalInfo": true,
+  "RetryItemSearch": true,
+  "ArtisanIntegration": true,
+  "SellKey": 164,
+  "EntrustKey": 160,
+  "RetrieveKey": 162,
+  "SellMarketKey": 65,
+  "NotifyEnableOverlay": true,
+  "NotifyCombatDutyNoDisplay": true,
+  "NotifyIncludeAllChara": true,
+  "NotifyIgnoreNoMultiMode": false,
+  "NotifyDisplayInChatX": false,
+  "NotifyDeskopToast": true,
+  "NotifyFlashTaskbar": true,
+  "NotifyNoToastWhenRunning": false
+}

@@ -1,0 +1,976 @@
+key,0,1
+ClassJobCategory,Task
+ClassJobCategory,Row
+Disciples of War or Magic,Animal Skin
+Disciples of War or Magic,Animal Sinew
+Disciples of War or Magic,Shriekshroom
+Disciples of War or Magic,Honey
+Disciples of War or Magic,Ram Horn
+Disciples of War or Magic,Beastkin Blood
+Disciples of War or Magic,Marmot Meat
+Disciples of War or Magic,Animal Hide
+Disciples of War or Magic,Mutton Loin
+Disciples of War or Magic,Bat Fang
+Disciples of War or Magic,Red Landtrap Leaf
+Disciples of War or Magic,Beast Sinew
+Disciples of War or Magic,Dodo Tenderloin
+Disciples of War or Magic,Jellyfish Cnida
+Disciples of War or Magic,Mole Meat
+Disciples of War or Magic,Puk Wing
+Disciples of War or Magic,Viscous Secretions
+Disciples of War or Magic,Dodo Egg
+Disciples of War or Magic,Bat Wing
+Disciples of War or Magic,Antelope Horn
+Disciples of War or Magic,Goobbue Fang
+Disciples of War or Magic,Yellow Yarzon Leg
+Disciples of War or Magic,Imp Wing
+Disciples of War or Magic,Jellyfish Umbrella
+Disciples of War or Magic,Aldgoat Skin
+Disciples of War or Magic,Dodo Feather
+Disciples of War or Magic,Green Megalocrab Shell
+Disciples of War or Magic,Antelope Shank
+Disciples of War or Magic,Megalocrab Leg
+Disciples of War or Magic,Acidic Secretions
+Disciples of War or Magic,Diremite Web
+Disciples of War or Magic,Aldgoat Horn
+Disciples of War or Magic,Scalekin Blood
+Disciples of War or Magic,Wolf Fang
+Disciples of War or Magic,Treant Sap
+Disciples of War or Magic,Aldgoat Chuck
+Disciples of War or Magic,Diremite Sinew
+Disciples of War or Magic,Gigantoad Skin
+Disciples of War or Magic,Bomb Ash
+Disciples of War or Magic,Puk Egg
+Disciples of War or Magic,Night Milk
+Disciples of War or Magic,Orobon Liver
+Disciples of War or Magic,Blue Yarzon Leg
+Disciples of War or Magic,Cactuar Needle
+Disciples of War or Magic,Sandworm Fang
+Disciples of War or Magic,Blue Landtrap Leaf
+Disciples of War or Magic,Morbol Vine
+Disciples of War or Magic,Formic Acid
+Disciples of War or Magic,Raptor Shank
+Disciples of War or Magic,Hippogryph Sinew
+Disciples of War or Magic,Boar Hide
+Disciples of War or Magic,Peiste Skin
+Disciples of War or Magic,Fleece
+Disciples of War or Magic,Spoken Blood
+Disciples of War or Magic,Karakul Skin
+Disciples of War or Magic,Grenade Ash
+Disciples of War or Magic,Raptor Sinew
+Disciples of War or Magic,Ochu Vine
+Disciples of War or Magic,Pudding Flesh
+Disciples of War or Magic,Basilisk Egg
+Disciples of War or Magic,Buffalo Sirloin
+Disciples of War or Magic,Apkallu Egg
+Disciples of War or Magic,Apkallu Down
+Disciples of War or Magic,Ahriman Wing
+Disciples of War or Magic,Eft Tail
+Disciples of War or Magic,Raptor Skin
+Disciples of War or Magic,Snurble Tufts
+Disciples of War or Magic,Ogre Horn
+MIN,Copper Ore
+MIN,Fire Shard
+MIN,Ice Shard
+MIN,Wind Shard
+MIN,Earth Shard
+MIN,Lightning Shard
+MIN,Water Shard
+MIN,Muddy Water
+MIN,Bone Chip
+MIN,Tin Ore
+MIN,Raw Sunstone
+MIN,Raw Lapis Lazuli
+MIN,Soiled Femur
+MIN,Zinc Ore
+MIN,Obsidian
+MIN,Potter's Clay
+MIN,Fine Sand
+MIN,Copper Sand
+MIN,Rock Salt
+MIN,Ragstone
+MIN,Iron Ore
+MIN,Iron Sand
+MIN,Cinnabar
+MIN,Raw Malachite
+MIN,Raw Sphene
+MIN,Raw Fluorite
+MIN,Limestone
+MIN,Raw Danburite
+MIN,Sunrise Tellin
+MIN,Alumen
+MIN,Mudstone
+MIN,Earth Rock
+MIN,Silver Sand
+MIN,Fire Rock
+MIN,Ice Rock
+MIN,Effervescent Water
+MIN,Wind Rock
+MIN,Lightning Rock
+MIN,Silver Ore
+MIN,Water Rock
+MIN,Bomb Ash
+MIN,Fire Crystal
+MIN,Ice Crystal
+MIN,Wind Crystal
+MIN,Earth Crystal
+MIN,Lightning Crystal
+MIN,Water Crystal
+MIN,Silex
+MIN,Wyvern Obsidian
+MIN,Blue Pigment
+MIN,Red Pigment
+MIN,Yellow Pigment
+MIN,Grey Pigment
+MIN,Brown Pigment
+MIN,Green Pigment
+MIN,Purple Pigment
+MIN,Brimstone
+MIN,Siltstone
+MIN,Grade 1 La Noscean Topsoil
+MIN,Grade 1 Shroud Topsoil
+MIN,Grade 1 Thanalan Topsoil
+MIN,Raw Garnet
+MIN,Granite
+MIN,Raw Heliodor
+MIN,Raw Goshenite
+MIN,Raw Peridot
+MIN,Mythril Sand
+MIN,Mythril Ore
+MIN,Raw Amethyst
+MIN,Raw Aquamarine
+MIN,Raw Tourmaline
+MIN,Raw Spinel
+MIN,Raw Zircon
+MIN,Jade
+MIN,Black Alumen
+MIN,Grenade Ash
+MIN,Grade 2 La Noscean Topsoil
+MIN,Grade 2 Shroud Topsoil
+MIN,Grade 2 Thanalan Topsoil
+MIN,Raw Turquoise
+MIN,Electrum Sand
+MIN,Electrum Ore
+MIN,Raw Amber
+MIN,Raw Rubellite
+MIN,Marble
+MIN,Basilisk Egg
+MIN,Cobalt Ore
+MIN,Adamantoise Shell
+MIN,Ogre Horn
+BTN,Latex
+BTN,Fire Shard
+BTN,Ice Shard
+BTN,Wind Shard
+BTN,Earth Shard
+BTN,Lightning Shard
+BTN,Water Shard
+BTN,Allagan Snail
+BTN,Maple Sap
+BTN,Maple Log
+BTN,Cinnamon
+BTN,Beehive Chip
+BTN,Maple Branch
+BTN,Tinolqa Mistletoe
+BTN,Cock Feather
+BTN,La Noscean Orange
+BTN,La Noscean Orange Seeds
+BTN,Ash Log
+BTN,Ash Branch
+BTN,Kukuru Bean
+BTN,Crow Feather
+BTN,Cloves
+BTN,Moko Grass
+BTN,Yellow Ginseng
+BTN,Chanterelle
+BTN,Lowland Grapes
+BTN,Rye
+BTN,Sunset Wheat
+BTN,Garlean Garlic
+BTN,Elm Log
+BTN,Wild Onion
+BTN,Lavender
+BTN,Straw
+BTN,Grass Viper
+BTN,Humus
+BTN,Coerthan Carrot
+BTN,Ogre Pumpkin
+BTN,Carnation
+BTN,La Noscean Lettuce
+BTN,Cinderfoot Olive
+BTN,Cotton Boll
+BTN,Cieldalaes Spinach
+BTN,Black Pepper
+BTN,Ruby Tomato
+BTN,Alpine Parsnip
+BTN,Highland Parsley
+BTN,Marjoram
+BTN,Paprika
+BTN,Faerie Apple
+BTN,Galago Mint
+BTN,Paprika Seeds
+BTN,Faerie Apple Seeds
+BTN,Sun Lemon
+BTN,Lalafellin Lentil
+BTN,Sun Lemon Seeds
+BTN,Belladonna
+BTN,Nopales
+BTN,Popoto
+BTN,Popoto Set
+BTN,Yew Log
+BTN,Gil Bun
+BTN,Yew Branch
+BTN,Island Seedling
+BTN,Shroud Seedling
+BTN,Desert Seedling
+BTN,White Scorpion
+BTN,Pixie Plums
+BTN,Gridanian Walnut
+BTN,Pixie Plum Seeds
+BTN,Button Mushroom
+BTN,Noble Grapes
+BTN,Matron's Mistletoe
+BTN,Ala Mhigan Mustard
+BTN,Ala Mhigan Mustard Seeds
+BTN,Walnut Log
+BTN,Chamomile
+BTN,Pearl Ginger
+BTN,Pearl Ginger Root
+BTN,Chamomile Seeds
+BTN,Sticky Rice
+BTN,Millioncorn
+BTN,Millioncorn Seeds
+BTN,Jade Peas
+BTN,Fire Crystal
+BTN,Ice Crystal
+BTN,Wind Crystal
+BTN,Earth Crystal
+BTN,Lightning Crystal
+BTN,Water Crystal
+BTN,Wizard Eggplant
+BTN,Wizard Eggplant Seeds
+BTN,Midland Cabbage
+BTN,Midland Cabbage Seeds
+BTN,Blue Pigment
+BTN,Red Pigment
+BTN,Yellow Pigment
+BTN,Grey Pigment
+BTN,Brown Pigment
+BTN,Green Pigment
+BTN,Purple Pigment
+BTN,Chocobo Feather
+BTN,Alligator Pear
+BTN,Moor Leech
+BTN,Flax
+BTN,Oak Branch
+BTN,Linseed
+BTN,Oak Log
+BTN,Aloe
+BTN,Midland Basil
+BTN,Midland Basil Seeds
+BTN,Mandrake
+BTN,Bloodgrass
+BTN,White Truffle
+BTN,Mandrake Seeds
+BTN,Salt Leek
+BTN,Wildfowl Feather
+BTN,Laurel
+BTN,Tarantula
+BTN,Dragon Pepper
+BTN,Desert Saffron
+BTN,Blood Currants
+BTN,Iron Acorn
+BTN,Blood Currant Seeds
+BTN,Mahogany Log
+BTN,Mugwort
+BTN,Maiden Artichoke
+BTN,Ramhorn Zucchini
+BTN,Thyme
+BTN,Nutmeg
+BTN,Almonds
+BTN,Almond Seeds
+BTN,Sagolii Sage
+BTN,Mirror Apple
+BTN,Black Scorpion
+BTN,Mirror Apple Seeds
+BTN,Rolanberry
+BTN,Rolanberry Seeds
+BTN,Mistletoe
+BTN,Dart Frog
+BTN,Rosewood Log
+BTN,Rosewood Branch
+BTN,Thanalan Tea Leaves
+BTN,Lava Toad
+BTN,Maiden Grass
+FSH,Crayfish
+FSH,Finger Shrimp
+FSH,White Coral
+FSH,Princess Trout
+FSH,Dusk Goby
+FSH,Pipira
+FSH,Crimson Crayfish
+FSH,Coral Butterfly
+FSH,Brass Loach
+FSH,Maiden Carp
+FSH,Tiger Cod
+FSH,Helmet Crab
+FSH,Rothlyt Oyster
+FSH,Navigator's Dagger
+FSH,Bluebell Salmon
+FSH,Razor Clam
+FSH,Blowfish
+FSH,Warmwater Trout
+FSH,Black Eel
+FSH,Dark Bass
+FSH,Blue Coral
+FSH,Bianaq Bream
+FSH,Black Sole
+FSH,Hammerhead Shark
+FSH,Indigo Herring
+FSH,Ash Tuna
+FSH,Fullmoon Sardine
+FSH,Whitelip Oyster
+FSH,Velodyna Carp
+FSH,Red Coral
+FSH,Silver Shark
+FSH,Raincaller
+FSH,Blacklip Oyster
+FSH,Northern Pike
+FSH,Cloud Cutter
+Disciples of War or Magic,Field Exploration I
+Disciples of War or Magic,Field Exploration II
+Disciples of War or Magic,Field Exploration III
+Disciples of War or Magic,Field Exploration IV
+Disciples of War or Magic,Field Exploration V
+Disciples of War or Magic,Field Exploration VI
+Disciples of War or Magic,Field Exploration VII
+Disciples of War or Magic,Field Exploration VIII
+Disciples of War or Magic,Field Exploration IX
+Disciples of War or Magic,Field Exploration X
+Disciples of War or Magic,Field Exploration XI
+Disciples of War or Magic,Field Exploration XII
+Disciples of War or Magic,Field Exploration XIII
+MIN,Highland Exploration I
+MIN,Highland Exploration II
+MIN,Highland Exploration III
+MIN,Highland Exploration IV
+MIN,Highland Exploration V
+MIN,Highland Exploration VI
+MIN,Highland Exploration VII
+MIN,Highland Exploration VIII
+MIN,Highland Exploration IX
+MIN,Highland Exploration X
+MIN,Highland Exploration XI
+MIN,Highland Exploration XII
+MIN,Highland Exploration XIII
+BTN,Woodland Exploration I
+BTN,Woodland Exploration II
+BTN,Woodland Exploration III
+BTN,Woodland Exploration IV
+BTN,Woodland Exploration V
+BTN,Woodland Exploration VI
+BTN,Woodland Exploration VII
+BTN,Woodland Exploration VIII
+BTN,Woodland Exploration IX
+BTN,Woodland Exploration X
+BTN,Woodland Exploration XI
+BTN,Woodland Exploration XII
+BTN,Woodland Exploration XIII
+FSH,Waterside Exploration I
+FSH,Waterside Exploration II
+FSH,Waterside Exploration III
+FSH,Waterside Exploration IV
+FSH,Waterside Exploration V
+FSH,Waterside Exploration VI
+FSH,Waterside Exploration VII
+FSH,Waterside Exploration VIII
+FSH,Waterside Exploration IX
+FSH,Waterside Exploration X
+FSH,Waterside Exploration XI
+FSH,Waterside Exploration XII
+FSH,Waterside Exploration XIII
+Disciples of War or Magic,Field Exploration XIV
+MIN,Highland Exploration XIV
+BTN,Woodland Exploration XIV
+FSH,Waterside Exploration XIV
+Disciples of War or Magic,Field Exploration XV
+MIN,Highland Exploration XV
+BTN,Woodland Exploration XV
+FSH,Waterside Exploration XV
+Disciples of War or Magic,Field Exploration XVI
+MIN,Highland Exploration XVI
+BTN,Woodland Exploration XVI
+FSH,Waterside Exploration XVI
+Disciples of War or Magic,Field Exploration XVII
+MIN,Highland Exploration XVII
+BTN,Woodland Exploration XVII
+FSH,Waterside Exploration XVII
+Disciples of War or Magic,Field Exploration XVIII
+MIN,Highland Exploration XVIII
+BTN,Woodland Exploration XVIII
+FSH,Waterside Exploration XVIII
+Disciples of War or Magic,Gastornis Egg
+Disciples of War or Magic,Yak Milk
+Disciples of War or Magic,Archaeornis Skin
+Disciples of War or Magic,Gelato Flesh
+Disciples of War or Magic,Icetrap Leaf
+Disciples of War or Magic,Loaghtan Chump
+Disciples of War or Magic,Yeti Fang
+Disciples of War or Magic,Bear Fat
+Disciples of War or Magic,Deepeye Tears
+Disciples of War or Magic,Wyvern Skin
+Disciples of War or Magic,Wyvern Wing
+Disciples of War or Magic,Dhalmel Meat
+Disciples of War or Magic,Dhalmel Hide
+Disciples of War or Magic,Drake Scales
+Disciples of War or Magic,Biast Scales
+Disciples of War or Magic,Dhalmel Saliva
+Disciples of War or Magic,Okeanis Egg
+Disciples of War or Magic,Dragon Skin
+Disciples of War or Magic,Dragon Fang
+Disciples of War or Magic,Okeanis Tail
+Disciples of War or Magic,Cockatrice Thigh
+Disciples of War or Magic,Crawler Cocoon
+Disciples of War or Magic,Dragon Scale
+Disciples of War or Magic,Dragon Blood
+Disciples of War or Magic,Amphiptere Skin
+Disciples of War or Magic,Griffin Hide
+Disciples of War or Magic,Griffin Talon
+Disciples of War or Magic,Chimera Mane
+MIN,Dragon Obsidian
+MIN,Mythrite Sand
+MIN,Raw Agate
+MIN,Raw Tiger's Eye
+MIN,Raw Larimar
+MIN,Dravanian Spring Water
+MIN,Raw Mormorion
+MIN,Raw Star Sapphire
+MIN,Raw Star Ruby
+MIN,Hardsilver Sand
+MIN,Raw Opal
+MIN,Abalathian Spring Water
+MIN,Cloud Mica
+MIN,Raw Carnelian
+MIN,Raw Citrine
+MIN,Aurum Regis Sand
+MIN,Raw Chrysolite
+MIN,Wyrm Obsidian
+BTN,Cedar Branch
+BTN,Cedar Log
+BTN,Rainbow Cotton Boll
+BTN,Mist Dill
+BTN,Highland Wheat
+BTN,Stalk of Ramie
+BTN,Dark Chestnut Log
+BTN,Dark Chestnut Branch
+BTN,Magma Beet
+BTN,Coneflower
+BTN,Sesame Seeds
+BTN,Cow Bitter
+BTN,Birch Branch
+BTN,Rue
+BTN,Coriander
+BTN,Dandelion
+BTN,Birch Sap
+BTN,Gaelicatnip
+FSH,Ice Faerie
+FSH,Fanged Clam
+FSH,Ogre Horn Snail
+FSH,Whilom Catfish
+FSH,Maiboi
+FSH,Seema Patrician
+FSH,Bubble Eye
+FSH,Scholar Sculpin
+FSH,Marble Oscar
+FSH,Vanuhead
+FSH,Mercy Staff
+FSH,Warmwater Bichir
+FSH,Orn Butterfly
+FSH,Philosopher's Stone
+FSH,Rockclimber
+FSH,Hospitalier Fish
+FSH,Battle Galley
+FSH,Cherry Trout
+FSH,Thunderbolt Eel
+FSH,Hinterlands Perch
+MIN,Saltpeter
+FSH,Blueclaw Shrimp
+FSH,Rock Mussel
+FSH,Mogpom
+FSH,Sweetfish
+FSH,Blue Cloud Coral
+MIN,Grade 3 La Noscean Topsoil
+MIN,Grade 3 Shroud Topsoil
+MIN,Grade 3 Thanalan Topsoil
+MIN,Gold Ore
+MIN,Darksteel Ore
+MIN,Volcanic Rock Salt
+MIN,Astral Rock
+MIN,Raw Ruby
+MIN,Ferberite
+MIN,Native Gold
+BTN,Spruce Log
+BTN,Thavnairian Mistletoe
+BTN,Silkworm Cocoon
+BTN,Trillium
+BTN,Trillium Bulb
+BTN,Black Truffle
+BTN,Dzemael Tomato Seeds
+BTN,Honey Lemon Seeds
+BTN,Prickly Pineapple Seeds
+BTN,Scarlet Sap
+BTN,Shroud Tea Leaves
+BTN,Young Cieldalaes Spinach
+BTN,Blood Orange
+MIN,Raw Diamond
+MIN,Raw Emerald
+MIN,Raw Topaz
+MIN,Raw Iolite
+MIN,Raw Sapphire
+BTN,Bamboo Stick
+BTN,Waterfowl Feather
+MIN,Platinum Ore
+BTN,Ebony Log
+MIN,Pumice
+BTN,Cypress Log
+MIN,Black Limestone
+MIN,Virgin Basilisk Egg
+BTN,Rosemary
+MIN,Gregarious Worm
+BTN,Mazlaya Greens
+MIN,Mythrite Ore
+MIN,Titanium Ore
+MIN,Hardsilver Ore
+BTN,Cyclops Onion
+BTN,Dark Chestnut
+BTN,Emerald Beans
+BTN,Birch Log
+Disciples of War or Magic,Field Exploration XIX
+MIN,Highland Exploration XIX
+BTN,Woodland Exploration XIX
+FSH,Waterside Exploration XIX
+MIN,Gold Sand
+BTN,Tree Toad
+BTN,Lowland Grape Seeds
+BTN,Garlic Cloves
+BTN,Buffalo Beans
+BTN,Wild Onion Set
+BTN,Lavender Seeds
+BTN,Coerthan Carrot Seeds
+BTN,La Noscean Lettuce Seeds
+BTN,Olive Seeds
+BTN,Gridanian Chestnut
+BTN,Black Pepper Seeds
+BTN,Dzemael Tomato
+BTN,Vampire Plant
+BTN,Honey Lemon
+BTN,Prickly Pineapple
+BTN,Apricot
+BTN,La Noscean Leek
+BTN,Unaspected Crystal
+MIN,Unaspected Crystal
+BTN,Dark Matter Cluster
+MIN,Dark Matter Cluster
+Disciples of War or Magic,Field Exploration XX
+MIN,Highland Exploration XX
+BTN,Woodland Exploration XX
+FSH,Waterside Exploration XX
+Disciples of War or Magic,Field Exploration XXI
+MIN,Highland Exploration XXI
+BTN,Woodland Exploration XXI
+FSH,Waterside Exploration XXI
+MIN,Adamantite Ore
+MIN,Yellow Copper Ore
+MIN,Pyrite
+MIN,Yellow Quartz
+MIN,Chalcocite
+MIN,Limonite
+MIN,Green Quartz
+MIN,Abalathian Rock Salt
+MIN,Light Kidney Ore
+MIN,Red Quartz
+MIN,Cuprite
+MIN,Aurum Regis Ore
+MIN,Sun Mica
+MIN,Red Alumen
+MIN,Astral Moraine
+MIN,Violet Quartz
+MIN,Blue Quartz
+BTN,Chysahl Greens
+BTN,Old World Fig
+BTN,Porcini
+BTN,Pearl Sprouts
+BTN,Coerthan Tea Leaves
+BTN,Dravanian Mistletoe
+BTN,Chives
+BTN,Heavens Lemon
+BTN,Abalathian Mistletoe
+BTN,Cloud Banana
+BTN,Morel
+BTN,Seventh Heaven
+BTN,Wattle Bark
+BTN,Honeydew Almonds
+BTN,Vanilla Beans
+BTN,Dravanian Paprika
+BTN,Snurbleberry
+BTN,Old World Fig Seeds
+BTN,Pearl Sprout Seeds
+BTN,Coerthan Tea Seeds
+BTN,Frost Cotton Boll
+BTN,Whitefrost Cotton Boll
+BTN,Camphorwood Log
+BTN,Camphorwood Branch
+BTN,Old-growth Camphorwood Log
+MIN,Lumythrite Sand
+MIN,Smithsonite Ore
+MIN,Beastkin Horn
+MIN,Meteorite
+BTN,Crystallized Sap
+BTN,Firelight Seeds
+BTN,Icelight Seeds
+BTN,Windlight Seeds
+BTN,Earthlight Seeds
+BTN,Levinlight Seeds
+BTN,Waterlight Seeds
+BTN,Teak Log
+BTN,Star Cotton Boll
+BTN,Brown Mushroom
+BTN,Noble Sage
+MIN,Tungstite
+MIN,Luminium Ore
+MIN,Zeolite Ore
+MIN,Gyr Abanian Alumen
+MIN,Raw Triphane
+MIN,Gyr Abanian Mineral Water
+MIN,Raw Kyanite
+MIN,Koppranickel Ore
+MIN,Crescent Spring Water
+MIN,Raw Star Spinel
+MIN,Doman Iron Ore
+MIN,Raw Azurite
+MIN,Durium Ore
+MIN,Raw Imperial Jade
+MIN,Molybdenum Ore
+MIN,Raw Rhodonite
+MIN,Stiperstone
+MIN,Koppranickel Sand
+MIN,Slate
+MIN,Diatomite
+MIN,Durium Sand
+MIN,Doman Iron Sand
+MIN,Palladium Sand
+MIN,Ala Mhigan Salt Crystal
+BTN,Beech Branch
+BTN,Loquat
+BTN,Beech Log
+BTN,Larch Log
+BTN,Pine Resin
+BTN,Pine Log
+BTN,Bamboo Shoot
+BTN,Shiitake Mushroom
+BTN,Persimmon Leaf
+BTN,Persimmon
+BTN,Persimmon Log
+BTN,Zelkova Log
+BTN,Othardian Plum
+BTN,Gyr Abanian Wheat
+BTN,Bloodhemp
+BTN,Buckwheat Kernels
+BTN,Mountain Popoto
+BTN,Gem Algae
+BTN,Holy Basil
+BTN,Ruby Cotton Boll
+BTN,Sugar Beet
+BTN,Green Leek
+BTN,Soybeans
+BTN,Ama Nori
+BTN,Kudzu Root
+BTN,Cumin Seeds
+BTN,Kudzu Vine
+BTN,Daikon Radish
+BTN,Gyr Abanian Carrot
+BTN,Lotus Root
+BTN,Sun Cabbage
+BTN,Fennel
+BTN,Ruby Tide Kelp
+BTN,Jhammel Ginger
+BTN,Yanxian Parsley
+BTN,Alyssum
+BTN,Nagxian Cudweed
+BTN,Chickweed
+BTN,Nipplewort
+BTN,Doman Eggplant
+BTN,Twincoon
+BTN,Hallowed Basil
+Disciples of War or Magic,Gagana Egg
+Disciples of War or Magic,Muud Suud Horn
+Disciples of War or Magic,Moth Scales
+Disciples of War or Magic,Rhino Beetle Carapace
+Disciples of War or Magic,Gagana Skin
+Disciples of War or Magic,Hornbill Tenderloin
+Disciples of War or Magic,Bombfish Spine
+Disciples of War or Magic,Gyuki Hide
+Disciples of War or Magic,Dzo Horn
+Disciples of War or Magic,Dzo Chuck
+Disciples of War or Magic,Steppe Milk
+Disciples of War or Magic,Tiger Skin
+Disciples of War or Magic,Gazelle Horn
+Disciples of War or Magic,Halgai Mane
+Disciples of War or Magic,Manzasiri Hair
+Disciples of War or Magic,Marid Hide
+Disciples of War or Magic,Jhammel Haunch
+Disciples of War or Magic,Twincoon
+Disciples of War or Magic,Gazelle Hide
+Disciples of War or Magic,True Griffin Hide
+FSH,Highland Perch
+FSH,Heather Charr
+FSH,Eastern Sea Pickle
+FSH,Gauntlet Crab
+FSH,Curtain Pleco
+FSH,Steppe Bullfrog
+FSH,Sea Lamp
+FSH,Spiny Lobster
+FSH,Koromo Octopus
+FSH,Motley Beakfish
+MIN,Lumythrite Ore
+Disciples of War or Magic,Field Exploration XXII
+MIN,Highland Exploration XXII
+BTN,Woodland Exploration XXII
+FSH,Waterside Exploration XXII
+MIN,Palladium Ore
+MIN,Chromite Ore
+BTN,Torreya Log
+BTN,Rhea
+MIN,Gyr Abanian Spring Water
+BTN,Azim Cotton Boll
+FSH,Snailfish
+MIN,Nightsteel Ore
+MIN,Silvergrace Ore
+BTN,Black Willow Log
+BTN,Hingan Flax
+FSH,Usuginu Octopus
+MIN,Hawk's Eye
+BTN,Hardened Veteran Tree Sap
+MIN,Azim Spring Water
+MIN,Gyr Abanian Ore
+MIN,Evergleam Ore
+BTN,Urunday Log
+BTN,Yanxian Cotton Boll
+Disciples of War or Magic,Field Exploration XXIII
+MIN,Highland Exploration XXIII
+BTN,Woodland Exploration XXIII
+FSH,Waterside Exploration XXIII
+Disciples of War or Magic,Field Exploration XXIV
+MIN,Highland Exploration XXIV
+BTN,Woodland Exploration XXIV
+FSH,Waterside Exploration XXIV
+Disciples of War or Magic,Island Wolf Fang
+Disciples of War or Magic,Smilodon Skin
+Disciples of War or Magic,Hoptrap Leaf
+Disciples of War or Magic,Silkmoth Scales
+Disciples of War or Magic,Rail Tenderloin
+Disciples of War or Magic,Green Glider Skin
+Disciples of War or Magic,Lorikeet Down
+Disciples of War or Magic,Lorikeet Egg
+Disciples of War or Magic,Atrociraptor Skin
+Disciples of War or Magic,Vampire Cup Vine
+Disciples of War or Magic,Vampire Vine Sap
+Disciples of War or Magic,Ovim Meat
+Disciples of War or Magic,Zonure Skin
+Disciples of War or Magic,Ovim Fleece
+Disciples of War or Magic,Sea Swallow Skin
+Disciples of War or Magic,Cubus Flesh
+Disciples of War or Magic,Hydrozoan Umbrella
+MIN,Raw Hematite
+MIN,Raw Diaspore
+MIN,Truegold Ore
+MIN,Highland Spring Water
+MIN,Raw Lazurite
+MIN,Bluespirit Ore
+MIN,Extra Effervescent Water
+MIN,Raw Triplite
+MIN,Titancopper Ore
+MIN,Underground Spring Water
+MIN,Raw Petalite
+MIN,Dimythrite Ore
+MIN,Yellow Alumen
+MIN,Coarse Saltpeter
+MIN,Hard Mudstone
+MIN,Truegold Sand
+MIN,Manasilver Sand
+MIN,Volcanic Tuff
+MIN,Titancopper Sand
+MIN,Dimythrite Sand
+BTN,Frantoio
+BTN,Pixie Apple
+BTN,White Oak Log
+BTN,Miracle Apple Log
+BTN,White Ash Log
+BTN,Gianthive Chip
+BTN,Amber Cloves
+BTN,Sandteak Log
+BTN,Harcot
+BTN,Lignum Vitae Log
+BTN,Night Pepper
+BTN,Blood Tomato
+BTN,Bright Flax
+BTN,Purple Carrot
+BTN,Curly Parsley
+BTN,Broad Beans
+BTN,Garden Beet
+BTN,Iridescent Cocoon
+BTN,Upland Wheat
+BTN,Peppermint
+BTN,Pixie Floss Boll
+BTN,Creamtop Mushroom
+BTN,Royal Grapes
+BTN,Russet Popoto
+BTN,Sweet Alyssum
+BTN,Fernleaf Lavender
+BTN,Coffee Beans
+BTN,Bomba Rice
+BTN,Lime Basil
+BTN,Tiger Lily
+BTN,Light Gerbera
+BTN,Mist Spinach
+BTN,Dwarven Cotton Boll
+FSH,Sand Egg
+FSH,Spearhead Squid
+FSH,Cherry Herring
+FSH,Lemonfish
+FSH,Black Tri-star
+FSH,Little Flirt
+FSH,Gourmand Crab
+FSH,Megapiranha
+FSH,Rose Shrimp
+FSH,Sweetflesh Oyster
+Disciples of War or Magic,Field Exploration XXV
+MIN,Highland Exploration XXV
+BTN,Woodland Exploration XXV
+FSH,Waterside Exploration XXV
+MIN,Raw Onyx
+MIN,Prismstone
+MIN,Tungsten Ore
+BTN,Lemonette
+BTN,Sandalwood Log
+BTN,Ethereal Cocoon
+MIN,Beryllium Ore
+BTN,Sandalwood Sap
+FSH,Sweetmeat Mussel
+MIN,Fireheart Cobalt
+MIN,Purpure Shell Chip
+MIN,Ashen Alumen
+BTN,Merbau Log
+BTN,Duskblooms
+BTN,Imperial Fern
+MIN,Brashgold Ore
+BTN,Tender Dill
+FSH,Blue Crab
+MIN,Tektite
+MIN,Eventide Jade
+MIN,Fossilized Dragon Bone
+BTN,Periwinkle
+BTN,Cloud Mushroom
+BTN,Wind Widow
+BTN,White Oak Branch
+Disciples of War or Magic,Field Exploration XXVI
+Disciples of War or Magic,Field Exploration XXVII
+MIN,Highland Exploration XXVI
+MIN,Highland Exploration XXVII
+BTN,Woodland Exploration XXVI
+BTN,Woodland Exploration XXVII
+FSH,Waterside Exploration XXVI
+FSH,Waterside Exploration XXVII
+BTN,Silver Beech Log
+MIN,Dolomite
+MIN,Solstice Stone
+BTN,Raindrop Cotton Boll
+BTN,Wattle Petribark
+MIN,Hard Water
+MIN,Raw Ametrine
+MIN,Sharlayan Rock Salt
+MIN,High Durium Sand
+MIN,Chloroschist
+MIN,High Durium Ore
+MIN,Pewter Ore
+MIN,Phrygian Gold Ore
+MIN,Eblan Alumen
+MIN,Bismuth Ore
+MIN,Manganese Ore
+MIN,Raw Blue Zircon
+MIN,Annite
+MIN,Ambrosial Water
+MIN,Chondrite
+MIN,Raw Star Quartz
+BTN,Horse Chestnut Log
+BTN,Dark Hemp
+BTN,Dark Rye
+BTN,Iceberg Lettuce
+BTN,Palm Log
+BTN,Palm Syrup
+BTN,Coconut
+BTN,Thavnairian Perilla Leaf
+BTN,Thavnairian Paprika
+BTN,Cucumber
+BTN,Eblan Lentils
+BTN,Red Pine Log
+BTN,Snow Flax
+BTN,Beet
+BTN,Carrot of Happiness
+BTN,Ironwood Log
+BTN,Scarlet Moko Grass
+BTN,Sykon
+BTN,Giant Popoto
+BTN,Elder Nutmeg Seeds
+BTN,Sideritis Leaves
+BTN,Integral Log
+BTN,AR-Caean Cotton Boll
+BTN,Alien Onion
+Disciples of War or Magic,Gaja Hide
+Disciples of War or Magic,Hamsa Tenderloin
+Disciples of War or Magic,Amra
+Disciples of War or Magic,Luncheon Toad Skin
+Disciples of War or Magic,Almasty Fur
+Disciples of War or Magic,Saiga Hide
+Disciples of War or Magic,Ovibos Milk
+Disciples of War or Magic,Yakow Chuck
+Disciples of War or Magic,Lunatender Blossom
+Disciples of War or Magic,Mousse Flesh
+Disciples of War or Magic,Dynamite Ash
+Disciples of War or Magic,Kumbhira Skin
+Disciples of War or Magic,Egg of Elpis
+Disciples of War or Magic,Petalouda Scales
+Disciples of War or Magic,Ophiotauros Hide
+Disciples of War or Magic,Berkanan Sap
+Disciples of War or Magic,Dynamis Crystal
+Disciples of War or Magic,Bird of Elpis Breast
+FSH,Northern Herring
+FSH,Spiny King Crab
+FSH,Icepike
+FSH,Grey Mullet
+FSH,Shallows Cod
+FSH,Ruby-spotted Crab
+FSH,Macrobrachium Lar
+FSH,Dream Pickle
+FSH,Protomyke #987
+FSH,Rummy-nosed Tetra
+Disciples of War or Magic,Field Exploration XXVIII
+MIN,Highland Exploration XXVIII
+BTN,Woodland Exploration XXVIII
+FSH,Waterside Exploration XXVIII
+MIN,Stonehard Water
+MIN,Rime Dolomite
+MIN,Lunar Adamantite Ore
+MIN,Rhodium Sand
+BTN,Potent Spice
+BTN,Mempisang Log
+BTN,Golden Cocoon
+BTN,Double-edged Herb
+MIN,Raw Eblan Danburite
+BTN,Thavnairian Corn
+MIN,Raw Rutilated Quartz
+MIN,Ilmenite
+MIN,Ash Diatomite
+BTN,Paldao Log
+BTN,Haritaki
+BTN,Bayberry

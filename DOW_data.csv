@@ -1,0 +1,180 @@
+key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+1,False,Disciples of War or Magic,1,0,RetainerTaskParameter#1,1,60,500,0,0,0,0,0,Animal Skin
+2,False,Disciples of War or Magic,2,0,RetainerTaskParameter#2,1,60,800,0,0,0,0,0,Animal Sinew
+3,False,Disciples of War or Magic,3,0,RetainerTaskParameter#3,1,60,800,0,0,0,0,0,Shriekshroom
+4,False,Disciples of War or Magic,4,0,RetainerTaskParameter#4,1,60,1400,0,0,0,0,0,Honey
+5,False,Disciples of War or Magic,5,0,RetainerTaskParameter#5,1,60,1400,0,0,0,0,0,Ram Horn
+6,False,Disciples of War or Magic,6,0,RetainerTaskParameter#6,1,60,3000,0,0,0,0,0,Beastkin Blood
+7,False,Disciples of War or Magic,7,0,RetainerTaskParameter#7,1,60,3000,0,0,0,0,0,Marmot Meat
+8,False,Disciples of War or Magic,8,0,RetainerTaskParameter#8,1,60,5000,0,0,0,0,0,Animal Hide
+9,False,Disciples of War or Magic,9,0,RetainerTaskParameter#9,1,60,5000,0,0,0,0,0,Mutton Loin
+10,False,Disciples of War or Magic,10,0,RetainerTaskParameter#10,1,60,7400,0,0,0,0,0,Bat Fang
+11,False,Disciples of War or Magic,10,0,RetainerTaskParameter#10,1,60,7400,0,0,0,0,0,Red Landtrap Leaf
+12,False,Disciples of War or Magic,10,0,RetainerTaskParameter#10,1,60,7400,0,0,0,0,0,Beast Sinew
+13,False,Disciples of War or Magic,11,0,RetainerTaskParameter#11,1,60,7400,0,0,0,0,0,Dodo Tenderloin
+14,False,Disciples of War or Magic,11,0,RetainerTaskParameter#11,1,60,7400,0,0,0,0,0,Jellyfish Cnida
+15,False,Disciples of War or Magic,12,0,RetainerTaskParameter#12,1,60,10200,0,0,0,0,0,Mole Meat
+16,False,Disciples of War or Magic,12,0,RetainerTaskParameter#12,1,60,10200,0,0,0,0,0,Puk Wing
+17,False,Disciples of War or Magic,13,0,RetainerTaskParameter#13,1,60,10200,0,0,0,0,0,Viscous Secretions
+18,False,Disciples of War or Magic,14,0,RetainerTaskParameter#14,1,60,13100,0,0,0,0,0,Dodo Egg
+19,False,Disciples of War or Magic,14,0,RetainerTaskParameter#14,1,60,13100,0,0,0,0,0,Bat Wing
+20,False,Disciples of War or Magic,15,0,RetainerTaskParameter#15,1,60,13100,0,0,0,0,0,Antelope Horn
+21,False,Disciples of War or Magic,15,0,RetainerTaskParameter#15,1,60,13100,0,0,0,0,0,Goobbue Fang
+22,False,Disciples of War or Magic,15,0,RetainerTaskParameter#15,1,60,13100,0,0,0,0,0,Yellow Yarzon Leg
+23,False,Disciples of War or Magic,16,0,RetainerTaskParameter#16,1,60,17400,0,0,0,0,0,Imp Wing
+24,False,Disciples of War or Magic,17,0,RetainerTaskParameter#17,1,60,17400,0,0,0,0,0,Jellyfish Umbrella
+25,False,Disciples of War or Magic,18,0,RetainerTaskParameter#18,1,60,21900,0,0,0,0,0,Aldgoat Skin
+26,False,Disciples of War or Magic,19,0,RetainerTaskParameter#19,1,60,21900,0,0,0,0,0,Dodo Feather
+27,False,Disciples of War or Magic,20,0,RetainerTaskParameter#20,1,60,24900,0,0,0,0,0,Green Megalocrab Shell
+28,False,Disciples of War or Magic,21,0,RetainerTaskParameter#21,1,60,24900,1,0,0,0,0,Antelope Shank
+29,False,Disciples of War or Magic,22,0,RetainerTaskParameter#22,1,60,26100,2,0,0,0,0,Megalocrab Leg
+30,False,Disciples of War or Magic,23,0,RetainerTaskParameter#23,1,60,26100,3,0,0,0,0,Acidic Secretions
+31,False,Disciples of War or Magic,24,0,RetainerTaskParameter#24,1,60,27200,4,0,0,0,0,Diremite Web
+32,False,Disciples of War or Magic,25,0,RetainerTaskParameter#25,1,60,27200,5,0,0,0,0,Aldgoat Horn
+33,False,Disciples of War or Magic,25,0,RetainerTaskParameter#25,1,60,27200,5,0,0,0,0,Scalekin Blood
+34,False,Disciples of War or Magic,25,0,RetainerTaskParameter#25,1,60,27200,5,0,0,0,0,Wolf Fang
+35,False,Disciples of War or Magic,25,0,RetainerTaskParameter#25,1,60,27200,5,0,0,0,0,Treant Sap
+36,False,Disciples of War or Magic,25,0,RetainerTaskParameter#25,1,60,27200,5,0,0,0,0,Aldgoat Chuck
+37,False,Disciples of War or Magic,25,0,RetainerTaskParameter#25,1,60,27200,5,0,0,0,0,Diremite Sinew
+38,False,Disciples of War or Magic,26,0,RetainerTaskParameter#26,1,60,32100,6,0,0,0,0,Gigantoad Skin
+39,False,Disciples of War or Magic,26,0,RetainerTaskParameter#26,1,60,32100,6,0,0,0,0,Bomb Ash
+40,False,Disciples of War or Magic,27,0,RetainerTaskParameter#27,1,60,32100,7,0,0,0,0,Puk Egg
+41,False,Disciples of War or Magic,28,0,RetainerTaskParameter#28,1,60,34500,8,0,0,0,0,Night Milk
+42,False,Disciples of War or Magic,28,0,RetainerTaskParameter#28,1,60,34500,8,0,0,0,0,Orobon Liver
+43,False,Disciples of War or Magic,29,0,RetainerTaskParameter#29,1,60,34500,9,0,0,0,0,Blue Yarzon Leg
+44,False,Disciples of War or Magic,29,0,RetainerTaskParameter#29,1,60,34500,9,0,0,0,0,Cactuar Needle
+45,False,Disciples of War or Magic,30,0,RetainerTaskParameter#30,1,60,35200,10,0,0,0,0,Sandworm Fang
+46,False,Disciples of War or Magic,30,0,RetainerTaskParameter#30,1,60,35200,10,0,0,0,0,Blue Landtrap Leaf
+47,False,Disciples of War or Magic,30,0,RetainerTaskParameter#30,1,60,35200,10,0,0,0,0,Morbol Vine
+48,False,Disciples of War or Magic,31,0,RetainerTaskParameter#31,1,60,35200,11,0,0,0,0,Formic Acid
+49,False,Disciples of War or Magic,32,0,RetainerTaskParameter#32,1,60,38600,12,0,0,0,0,Raptor Shank
+50,False,Disciples of War or Magic,32,0,RetainerTaskParameter#32,1,60,38600,12,0,0,0,0,Hippogryph Sinew
+51,False,Disciples of War or Magic,33,0,RetainerTaskParameter#33,1,60,38600,13,0,0,0,0,Boar Hide
+52,False,Disciples of War or Magic,34,0,RetainerTaskParameter#34,1,60,40800,14,0,0,0,0,Peiste Skin
+53,False,Disciples of War or Magic,35,0,RetainerTaskParameter#35,1,60,40800,15,0,0,0,0,Fleece
+54,False,Disciples of War or Magic,36,0,RetainerTaskParameter#36,1,60,44800,16,0,0,0,0,Spoken Blood
+55,False,Disciples of War or Magic,37,0,RetainerTaskParameter#37,1,60,44800,17,0,0,0,0,Karakul Skin
+56,False,Disciples of War or Magic,38,0,RetainerTaskParameter#38,1,60,49000,18,0,0,0,0,Grenade Ash
+57,False,Disciples of War or Magic,39,0,RetainerTaskParameter#39,1,60,49000,19,0,0,0,0,Raptor Sinew
+58,False,Disciples of War or Magic,40,0,RetainerTaskParameter#40,1,60,52600,20,0,0,0,0,Ochu Vine
+59,False,Disciples of War or Magic,41,0,RetainerTaskParameter#41,1,60,52600,21,0,0,0,0,Pudding Flesh
+60,False,Disciples of War or Magic,42,0,RetainerTaskParameter#42,1,60,54200,22,0,0,0,0,Basilisk Egg
+61,False,Disciples of War or Magic,43,0,RetainerTaskParameter#43,1,60,54200,23,0,0,0,0,Buffalo Sirloin
+62,False,Disciples of War or Magic,44,0,RetainerTaskParameter#44,1,60,55700,24,0,0,0,0,Apkallu Egg
+63,False,Disciples of War or Magic,45,0,RetainerTaskParameter#45,1,60,55700,25,0,0,0,0,Apkallu Down
+64,False,Disciples of War or Magic,46,0,RetainerTaskParameter#46,1,60,61900,26,0,0,0,0,Ahriman Wing
+65,False,Disciples of War or Magic,47,0,RetainerTaskParameter#47,1,60,61900,27,0,0,0,0,Eft Tail
+66,False,Disciples of War or Magic,48,0,RetainerTaskParameter#48,1,60,66400,28,0,0,0,0,Raptor Skin
+67,False,Disciples of War or Magic,49,0,RetainerTaskParameter#49,1,60,66400,29,0,0,0,0,Snurble Tufts
+68,False,Disciples of War or Magic,49,0,RetainerTaskParameter#49,1,60,66400,29,0,0,0,0,Ogre Horn
+343,True,Disciples of War or Magic,1,0,RetainerTaskParameter#1,2,1080,4900,0,0,0,0,0,Field Exploration I
+344,True,Disciples of War or Magic,5,0,RetainerTaskParameter#1,2,1080,19900,0,0,0,0,0,Field Exploration II
+345,True,Disciples of War or Magic,10,0,RetainerTaskParameter#1,2,1080,45200,0,0,0,0,0,Field Exploration III
+346,True,Disciples of War or Magic,15,0,RetainerTaskParameter#1,2,1080,87600,0,0,0,0,0,Field Exploration IV
+347,True,Disciples of War or Magic,20,0,RetainerTaskParameter#1,2,1080,106600,0,0,0,0,0,Field Exploration V
+348,True,Disciples of War or Magic,25,0,RetainerTaskParameter#1,2,1080,138100,5,0,0,0,0,Field Exploration VI
+349,True,Disciples of War or Magic,30,0,RetainerTaskParameter#1,2,1080,158300,20,0,0,0,0,Field Exploration VII
+350,True,Disciples of War or Magic,35,0,RetainerTaskParameter#1,2,1080,195900,25,0,0,0,0,Field Exploration VIII
+351,True,Disciples of War or Magic,40,0,RetainerTaskParameter#1,2,1080,220000,30,0,0,0,0,Field Exploration IX
+352,True,Disciples of War or Magic,45,0,RetainerTaskParameter#1,2,1080,265600,35,0,0,0,0,Field Exploration X
+353,True,Disciples of War or Magic,50,0,RetainerTaskParameter#1,2,1080,421000,40,0,0,0,0,Field Exploration XI
+354,True,Disciples of War or Magic,50,0,RetainerTaskParameter#1,2,1080,421000,50,0,0,0,0,Field Exploration XII
+355,True,Disciples of War or Magic,50,0,RetainerTaskParameter#1,2,1080,421000,60,0,0,0,0,Field Exploration XIII
+396,True,Disciples of War or Magic,50,0,RetainerTaskParameter#1,2,1080,421000,70,0,0,0,0,Field Exploration XIV
+400,True,Disciples of War or Magic,50,0,RetainerTaskParameter#1,2,1080,421000,80,0,0,0,0,Field Exploration XV
+404,True,Disciples of War or Magic,50,0,RetainerTaskParameter#1,2,1080,421000,90,0,0,0,0,Field Exploration XVI
+408,True,Disciples of War or Magic,51,0,RetainerTaskParameter#1,2,1080,680900,100,0,0,0,0,Field Exploration XVII
+412,True,Disciples of War or Magic,55,0,RetainerTaskParameter#1,2,1080,988600,116,0,0,0,0,Field Exploration XVIII
+416,False,Disciples of War or Magic,51,0,RetainerTaskParameter#120,1,60,122000,100,0,0,0,0,Gastornis Egg
+417,False,Disciples of War or Magic,51,0,RetainerTaskParameter#120,1,60,122000,100,0,0,0,0,Yak Milk
+418,False,Disciples of War or Magic,51,0,RetainerTaskParameter#120,1,60,122000,100,0,0,0,0,Archaeornis Skin
+419,False,Disciples of War or Magic,51,0,RetainerTaskParameter#120,1,60,122000,100,0,0,0,0,Gelato Flesh
+420,False,Disciples of War or Magic,51,0,RetainerTaskParameter#120,1,60,122000,100,0,0,0,0,Icetrap Leaf
+421,False,Disciples of War or Magic,52,0,RetainerTaskParameter#125,1,60,154200,105,0,0,0,0,Loaghtan Chump
+422,False,Disciples of War or Magic,52,0,RetainerTaskParameter#125,1,60,154200,105,0,0,0,0,Yeti Fang
+423,False,Disciples of War or Magic,52,0,RetainerTaskParameter#125,1,60,154200,105,0,0,0,0,Bear Fat
+424,False,Disciples of War or Magic,52,0,RetainerTaskParameter#125,1,60,154200,105,0,0,0,0,Deepeye Tears
+425,False,Disciples of War or Magic,53,0,RetainerTaskParameter#130,1,60,154200,110,0,0,0,0,Wyvern Skin
+426,False,Disciples of War or Magic,53,0,RetainerTaskParameter#130,1,60,154200,110,0,0,0,0,Wyvern Wing
+427,False,Disciples of War or Magic,55,0,RetainerTaskParameter#136,1,60,186000,116,0,0,0,0,Dhalmel Meat
+428,False,Disciples of War or Magic,55,0,RetainerTaskParameter#136,1,60,186000,116,0,0,0,0,Dhalmel Hide
+429,False,Disciples of War or Magic,56,0,RetainerTaskParameter#139,1,60,216800,119,0,0,0,0,Drake Scales
+430,False,Disciples of War or Magic,54,0,RetainerTaskParameter#133,1,60,186000,113,0,0,0,0,Biast Scales
+431,False,Disciples of War or Magic,56,0,RetainerTaskParameter#139,1,60,216800,119,0,0,0,0,Dhalmel Saliva
+432,False,Disciples of War or Magic,57,0,RetainerTaskParameter#142,1,60,216800,122,0,0,0,0,Okeanis Egg
+433,False,Disciples of War or Magic,57,0,RetainerTaskParameter#142,1,60,216800,122,0,0,0,0,Dragon Skin
+434,False,Disciples of War or Magic,57,0,RetainerTaskParameter#142,1,60,216800,122,0,0,0,0,Dragon Fang
+435,False,Disciples of War or Magic,58,0,RetainerTaskParameter#145,1,60,247100,125,0,0,0,0,Okeanis Tail
+436,False,Disciples of War or Magic,58,0,RetainerTaskParameter#145,1,60,247100,125,0,0,0,0,Cockatrice Thigh
+437,False,Disciples of War or Magic,58,0,RetainerTaskParameter#145,1,60,247100,125,0,0,0,0,Crawler Cocoon
+438,False,Disciples of War or Magic,58,0,RetainerTaskParameter#145,1,60,247100,125,0,0,0,0,Dragon Scale
+439,False,Disciples of War or Magic,58,0,RetainerTaskParameter#145,1,60,247100,125,0,0,0,0,Dragon Blood
+440,False,Disciples of War or Magic,59,0,RetainerTaskParameter#148,1,60,247100,128,0,0,0,0,Amphiptere Skin
+441,False,Disciples of War or Magic,59,0,RetainerTaskParameter#148,1,60,247100,128,0,0,0,0,Griffin Hide
+442,False,Disciples of War or Magic,59,0,RetainerTaskParameter#148,1,60,247100,128,0,0,0,0,Griffin Talon
+443,False,Disciples of War or Magic,60,0,RetainerTaskParameter#150,1,60,251000,130,0,0,0,0,Chimera Mane
+552,True,Disciples of War or Magic,60,0,RetainerTaskParameter#1,2,1080,1109600,160,0,0,0,0,Field Exploration XIX
+578,True,Disciples of War or Magic,61,0,RetainerTaskParameter#1,2,1080,1109700,235,0,0,0,0,Field Exploration XX
+582,True,Disciples of War or Magic,65,0,RetainerTaskParameter#1,2,1080,1133300,256,0,0,0,0,Field Exploration XXI
+709,False,Disciples of War or Magic,61,0,RetainerTaskParameter#255,1,60,251000,235,0,0,0,0,Gagana Egg
+710,False,Disciples of War or Magic,61,0,RetainerTaskParameter#255,1,60,251000,235,0,0,0,0,Muud Suud Horn
+711,False,Disciples of War or Magic,62,0,RetainerTaskParameter#265,1,60,261500,245,0,0,0,0,Moth Scales
+712,False,Disciples of War or Magic,62,0,RetainerTaskParameter#265,1,60,261500,245,0,0,0,0,Rhino Beetle Carapace
+713,False,Disciples of War or Magic,62,0,RetainerTaskParameter#265,1,60,261500,245,0,0,0,0,Gagana Skin
+714,False,Disciples of War or Magic,63,0,RetainerTaskParameter#270,1,60,261500,250,0,0,0,0,Hornbill Tenderloin
+715,False,Disciples of War or Magic,63,0,RetainerTaskParameter#270,1,60,261500,250,0,0,0,0,Bombfish Spine
+716,False,Disciples of War or Magic,64,0,RetainerTaskParameter#273,1,60,262000,253,0,0,0,0,Gyuki Hide
+717,False,Disciples of War or Magic,65,0,RetainerTaskParameter#276,1,60,262000,256,0,0,0,0,Dzo Horn
+718,False,Disciples of War or Magic,66,0,RetainerTaskParameter#279,1,60,265800,259,0,0,0,0,Dzo Chuck
+719,False,Disciples of War or Magic,66,0,RetainerTaskParameter#279,1,60,265800,259,0,0,0,0,Steppe Milk
+720,False,Disciples of War or Magic,66,0,RetainerTaskParameter#279,1,60,265800,259,0,0,0,0,Tiger Skin
+721,False,Disciples of War or Magic,67,0,RetainerTaskParameter#282,1,60,265800,262,0,0,0,0,Gazelle Horn
+722,False,Disciples of War or Magic,67,0,RetainerTaskParameter#282,1,60,265800,262,0,0,0,0,Halgai Mane
+723,False,Disciples of War or Magic,68,0,RetainerTaskParameter#285,1,60,283300,265,0,0,0,0,Manzasiri Hair
+724,False,Disciples of War or Magic,68,0,RetainerTaskParameter#285,1,60,283300,265,0,0,0,0,Marid Hide
+725,False,Disciples of War or Magic,69,0,RetainerTaskParameter#288,1,60,283300,268,0,0,0,0,Jhammel Haunch
+726,False,Disciples of War or Magic,69,0,RetainerTaskParameter#288,1,60,283300,268,0,0,0,0,Twincoon
+727,False,Disciples of War or Magic,70,0,RetainerTaskParameter#290,1,60,301800,270,0,0,0,0,Gazelle Hide
+728,False,Disciples of War or Magic,70,0,RetainerTaskParameter#290,1,60,301800,270,0,0,0,0,True Griffin Hide
+740,True,Disciples of War or Magic,70,0,RetainerTaskParameter#1,2,1080,1169200,270,0,0,0,0,Field Exploration XXII
+763,True,Disciples of War or Magic,71,0,RetainerTaskParameter#1,2,1080,1412800,370,0,0,0,0,Field Exploration XXIII
+767,True,Disciples of War or Magic,75,0,RetainerTaskParameter#1,2,1080,2102400,386,0,0,0,0,Field Exploration XXIV
+771,False,Disciples of War or Magic,70,0,RetainerTaskParameter#290,1,60,301800,270,0,0,0,0,Island Wolf Fang
+772,False,Disciples of War or Magic,71,0,RetainerTaskParameter#390,1,60,301800,370,0,0,0,0,Smilodon Skin
+773,False,Disciples of War or Magic,71,0,RetainerTaskParameter#390,1,60,301800,370,0,0,0,0,Hoptrap Leaf
+774,False,Disciples of War or Magic,71,0,RetainerTaskParameter#390,1,60,301800,370,0,0,0,0,Silkmoth Scales
+775,False,Disciples of War or Magic,71,0,RetainerTaskParameter#390,1,60,301800,370,0,0,0,0,Rail Tenderloin
+776,False,Disciples of War or Magic,72,0,RetainerTaskParameter#400,1,60,332400,375,0,0,0,0,Green Glider Skin
+777,False,Disciples of War or Magic,73,0,RetainerTaskParameter#400,1,60,332400,380,0,0,0,0,Lorikeet Down
+778,False,Disciples of War or Magic,73,0,RetainerTaskParameter#400,1,60,332400,380,0,0,0,0,Lorikeet Egg
+779,False,Disciples of War or Magic,74,0,RetainerTaskParameter#406,1,60,377100,383,0,0,0,0,Atrociraptor Skin
+780,False,Disciples of War or Magic,75,0,RetainerTaskParameter#406,1,60,377100,386,0,0,0,0,Vampire Cup Vine
+781,False,Disciples of War or Magic,75,0,RetainerTaskParameter#406,1,60,377100,386,0,0,0,0,Vampire Vine Sap
+782,False,Disciples of War or Magic,76,0,RetainerTaskParameter#409,1,60,437700,389,0,0,0,0,Ovim Meat
+783,False,Disciples of War or Magic,77,0,RetainerTaskParameter#412,1,60,437700,392,0,0,0,0,Zonure Skin
+784,False,Disciples of War or Magic,77,0,RetainerTaskParameter#412,1,60,437700,392,0,0,0,0,Ovim Fleece
+785,False,Disciples of War or Magic,78,0,RetainerTaskParameter#415,1,60,525600,395,0,0,0,0,Sea Swallow Skin
+786,False,Disciples of War or Magic,79,0,RetainerTaskParameter#418,1,60,525600,398,0,0,0,0,Cubus Flesh
+787,False,Disciples of War or Magic,79,0,RetainerTaskParameter#418,1,60,525600,398,0,0,0,0,Hydrozoan Umbrella
+851,True,Disciples of War or Magic,80,0,RetainerTaskParameter#1,2,1080,2396800,400,0,0,0,0,Field Exploration XXV
+880,True,Disciples of War or Magic,81,0,RetainerTaskParameter#1,2,1080,3179200,500,0,0,0,0,Field Exploration XXVI
+881,True,Disciples of War or Magic,85,0,RetainerTaskParameter#1,2,1080,4335200,516,0,0,0,0,Field Exploration XXVII
+933,False,Disciples of War or Magic,80,0,RetainerTaskParameter#515,1,60,599200,495,0,0,0,0,Gaja Hide
+934,False,Disciples of War or Magic,80,0,RetainerTaskParameter#515,1,60,599200,495,0,0,0,0,Hamsa Tenderloin
+935,False,Disciples of War or Magic,80,0,RetainerTaskParameter#515,1,60,599200,495,0,0,0,0,Amra
+936,False,Disciples of War or Magic,82,0,RetainerTaskParameter#525,1,60,694200,505,0,0,0,0,Luncheon Toad Skin
+937,False,Disciples of War or Magic,82,0,RetainerTaskParameter#525,1,60,694200,505,0,0,0,0,Almasty Fur
+938,False,Disciples of War or Magic,84,0,RetainerTaskParameter#533,1,60,794800,513,0,0,0,0,Saiga Hide
+939,False,Disciples of War or Magic,82,0,RetainerTaskParameter#525,1,60,694200,505,0,0,0,0,Ovibos Milk
+940,False,Disciples of War or Magic,81,0,RetainerTaskParameter#520,1,60,694200,500,0,0,0,0,Yakow Chuck
+941,False,Disciples of War or Magic,83,0,RetainerTaskParameter#530,1,60,794800,510,0,0,0,0,Lunatender Blossom
+942,False,Disciples of War or Magic,84,0,RetainerTaskParameter#533,1,60,794800,513,0,0,0,0,Mousse Flesh
+943,False,Disciples of War or Magic,84,0,RetainerTaskParameter#533,1,60,794800,513,0,0,0,0,Dynamite Ash
+944,False,Disciples of War or Magic,86,0,RetainerTaskParameter#539,1,60,923100,519,0,0,0,0,Kumbhira Skin
+945,False,Disciples of War or Magic,86,0,RetainerTaskParameter#539,1,60,923100,519,0,0,0,0,Egg of Elpis
+946,False,Disciples of War or Magic,86,0,RetainerTaskParameter#539,1,60,923100,519,0,0,0,0,Petalouda Scales
+947,False,Disciples of War or Magic,88,0,RetainerTaskParameter#545,1,60,1045900,525,0,0,0,0,Ophiotauros Hide
+948,False,Disciples of War or Magic,88,0,RetainerTaskParameter#545,1,60,1045900,525,0,0,0,0,Berkanan Sap
+949,False,Disciples of War or Magic,89,0,RetainerTaskParameter#548,1,60,1083800,528,0,0,0,0,Dynamis Crystal
+950,False,Disciples of War or Magic,86,0,RetainerTaskParameter#539,1,60,923100,519,0,0,0,0,Bird of Elpis Breast
+961,True,Disciples of War or Magic,90,0,RetainerTaskParameter#1,2,1080,5311200,530,0,0,0,0,Field Exploration XXVIII

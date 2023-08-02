@@ -1,0 +1,399 @@
+key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+161,False,BTN,1,1,RetainerTaskParameter#1,1,60,500,0,0,0,0,0,Latex
+162,False,BTN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Fire Shard
+163,False,BTN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Ice Shard
+164,False,BTN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Wind Shard
+165,False,BTN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Earth Shard
+166,False,BTN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Lightning Shard
+167,False,BTN,1,1,RetainerTaskParameter#0,1,60,500,0,0,0,0,0,Water Shard
+168,False,BTN,2,2,RetainerTaskParameter#2,1,60,800,0,0,0,0,0,Allagan Snail
+169,False,BTN,2,2,RetainerTaskParameter#2,1,60,800,0,0,0,0,0,Maple Sap
+170,False,BTN,3,3,RetainerTaskParameter#3,1,60,800,0,0,0,0,0,Maple Log
+171,False,BTN,4,4,RetainerTaskParameter#4,1,60,1400,0,0,0,0,0,Cinnamon
+172,False,BTN,5,5,RetainerTaskParameter#5,1,60,1400,0,0,0,0,0,Beehive Chip
+173,False,BTN,5,5,RetainerTaskParameter#5,1,60,1400,0,0,0,0,0,Maple Branch
+174,False,BTN,6,6,RetainerTaskParameter#6,1,60,3000,0,0,0,0,0,Tinolqa Mistletoe
+175,False,BTN,6,6,RetainerTaskParameter#6,1,60,3000,0,0,0,0,0,Cock Feather
+176,False,BTN,7,7,RetainerTaskParameter#7,1,60,3000,0,0,0,0,0,La Noscean Orange
+177,False,BTN,7,7,RetainerTaskParameter#7,1,60,3000,0,0,0,0,0,La Noscean Orange Seeds
+178,False,BTN,8,8,RetainerTaskParameter#8,1,60,5000,0,0,0,0,0,Ash Log
+179,False,BTN,9,9,RetainerTaskParameter#9,1,60,5000,0,0,0,0,0,Ash Branch
+180,False,BTN,9,9,RetainerTaskParameter#9,1,60,5000,0,0,0,0,0,Kukuru Bean
+181,False,BTN,10,10,RetainerTaskParameter#10,1,60,7400,0,72,0,30,0,Crow Feather
+182,False,BTN,10,10,RetainerTaskParameter#10,1,60,7400,0,72,0,30,0,Cloves
+183,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Moko Grass
+184,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Yellow Ginseng
+185,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Chanterelle
+186,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Lowland Grapes
+187,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Rye
+188,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Sunset Wheat
+189,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Garlean Garlic
+190,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Elm Log
+191,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Wild Onion
+192,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Lavender
+193,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Straw
+194,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Grass Viper
+195,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Humus
+196,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Coerthan Carrot
+197,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Ogre Pumpkin
+198,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Carnation
+199,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,La Noscean Lettuce
+200,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Cinderfoot Olive
+201,False,BTN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Cotton Boll
+202,False,BTN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Cieldalaes Spinach
+203,False,BTN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Black Pepper
+204,False,BTN,15,15,RetainerTaskParameter#15,1,60,13100,0,72,0,45,0,Ruby Tomato
+205,False,BTN,15,15,RetainerTaskParameter#15,1,60,13100,0,72,0,45,0,Alpine Parsnip
+206,False,BTN,15,15,RetainerTaskParameter#15,1,60,13100,0,72,0,45,0,Highland Parsley
+207,False,BTN,15,15,RetainerTaskParameter#15,1,60,13100,0,72,0,45,0,Marjoram
+208,False,BTN,16,16,RetainerTaskParameter#16,1,60,17400,0,72,0,58,0,Paprika
+209,False,BTN,16,16,RetainerTaskParameter#16,1,60,17400,0,72,0,58,0,Faerie Apple
+210,False,BTN,16,16,RetainerTaskParameter#16,1,60,17400,0,72,0,58,0,Galago Mint
+211,False,BTN,16,16,RetainerTaskParameter#16,1,60,17400,0,72,0,58,0,Paprika Seeds
+212,False,BTN,16,16,RetainerTaskParameter#16,1,60,17400,0,72,0,58,0,Faerie Apple Seeds
+213,False,BTN,17,17,RetainerTaskParameter#17,1,60,17400,0,72,0,60,0,Sun Lemon
+214,False,BTN,17,17,RetainerTaskParameter#17,1,60,17400,0,72,0,60,0,Lalafellin Lentil
+215,False,BTN,17,17,RetainerTaskParameter#17,1,60,17400,0,72,0,60,0,Sun Lemon Seeds
+216,False,BTN,18,18,RetainerTaskParameter#18,1,60,21900,0,72,0,62,0,Belladonna
+217,False,BTN,18,18,RetainerTaskParameter#18,1,60,21900,0,72,0,62,0,Nopales
+218,False,BTN,18,18,RetainerTaskParameter#18,1,60,21900,0,72,0,62,0,Popoto
+219,False,BTN,18,18,RetainerTaskParameter#18,1,60,21900,0,72,0,62,0,Popoto Set
+220,False,BTN,19,19,RetainerTaskParameter#19,1,60,21900,0,72,0,63,0,Yew Log
+221,False,BTN,19,19,RetainerTaskParameter#19,1,60,21900,0,72,0,63,0,Gil Bun
+222,False,BTN,20,20,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Yew Branch
+223,False,BTN,20,20,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Island Seedling
+224,False,BTN,20,20,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Shroud Seedling
+225,False,BTN,20,20,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Desert Seedling
+226,False,BTN,20,20,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,White Scorpion
+228,False,BTN,21,21,RetainerTaskParameter#21,1,60,24900,0,72,0,75,0,Pixie Plums
+229,False,BTN,21,21,RetainerTaskParameter#21,1,60,24900,0,72,0,75,0,Gridanian Walnut
+230,False,BTN,21,21,RetainerTaskParameter#21,1,60,24900,0,72,0,75,0,Pixie Plum Seeds
+231,False,BTN,22,22,RetainerTaskParameter#22,1,60,26100,0,72,0,78,0,Button Mushroom
+232,False,BTN,22,22,RetainerTaskParameter#22,1,60,26100,0,72,0,78,0,Noble Grapes
+233,False,BTN,23,23,RetainerTaskParameter#23,1,60,26100,0,72,0,81,0,Matron's Mistletoe
+234,False,BTN,23,23,RetainerTaskParameter#23,1,60,26100,0,72,0,81,0,Ala Mhigan Mustard
+235,False,BTN,23,23,RetainerTaskParameter#23,1,60,26100,0,72,0,81,0,Ala Mhigan Mustard Seeds
+236,False,BTN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Walnut Log
+237,False,BTN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Chamomile
+238,False,BTN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Pearl Ginger
+239,False,BTN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Pearl Ginger Root
+240,False,BTN,24,24,RetainerTaskParameter#24,1,60,27200,0,72,0,84,0,Chamomile Seeds
+241,False,BTN,25,25,RetainerTaskParameter#25,1,60,27200,0,72,0,87,0,Sticky Rice
+242,False,BTN,25,25,RetainerTaskParameter#25,1,60,27200,0,72,0,87,0,Millioncorn
+243,False,BTN,25,25,RetainerTaskParameter#25,1,60,27200,0,72,0,87,0,Millioncorn Seeds
+244,False,BTN,26,26,RetainerTaskParameter#26,1,60,32100,0,72,0,90,0,Jade Peas
+245,False,BTN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Fire Crystal
+246,False,BTN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Ice Crystal
+247,False,BTN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Wind Crystal
+248,False,BTN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Earth Crystal
+249,False,BTN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Lightning Crystal
+250,False,BTN,26,26,RetainerTaskParameter#0,1,60,32100,0,72,0,90,0,Water Crystal
+251,False,BTN,27,27,RetainerTaskParameter#27,1,60,32100,0,72,0,92,0,Wizard Eggplant
+252,False,BTN,27,27,RetainerTaskParameter#27,1,60,32100,0,72,0,92,0,Wizard Eggplant Seeds
+253,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Midland Cabbage
+254,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Midland Cabbage Seeds
+255,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Blue Pigment
+256,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Red Pigment
+257,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Yellow Pigment
+258,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Grey Pigment
+259,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Brown Pigment
+260,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Green Pigment
+261,False,BTN,28,28,RetainerTaskParameter#28,1,60,34500,0,72,0,95,0,Purple Pigment
+262,False,BTN,29,29,RetainerTaskParameter#29,1,60,34500,0,72,0,96,0,Chocobo Feather
+263,False,BTN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Alligator Pear
+264,False,BTN,30,30,RetainerTaskParameter#30,1,60,35200,0,72,0,99,0,Moor Leech
+266,False,BTN,31,31,RetainerTaskParameter#31,1,60,35200,0,72,0,101,0,Flax
+267,False,BTN,31,31,RetainerTaskParameter#31,1,60,35200,0,72,0,101,0,Oak Branch
+268,False,BTN,31,31,RetainerTaskParameter#31,1,60,35200,0,72,0,101,0,Linseed
+269,False,BTN,32,32,RetainerTaskParameter#32,1,60,38600,0,72,0,103,0,Oak Log
+270,False,BTN,32,32,RetainerTaskParameter#32,1,60,38600,0,72,0,103,0,Aloe
+271,False,BTN,32,32,RetainerTaskParameter#32,1,60,38600,0,72,0,103,0,Midland Basil
+272,False,BTN,32,32,RetainerTaskParameter#32,1,60,38600,0,72,0,103,0,Midland Basil Seeds
+273,False,BTN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,Mandrake
+274,False,BTN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,Bloodgrass
+275,False,BTN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,White Truffle
+276,False,BTN,33,33,RetainerTaskParameter#33,1,60,38600,0,72,0,105,0,Mandrake Seeds
+277,False,BTN,34,34,RetainerTaskParameter#34,1,60,40800,0,72,0,107,0,Salt Leek
+278,False,BTN,34,34,RetainerTaskParameter#34,1,60,40800,0,72,0,107,0,Wildfowl Feather
+279,False,BTN,34,34,RetainerTaskParameter#34,1,60,40800,0,72,0,107,0,Laurel
+280,False,BTN,35,35,RetainerTaskParameter#35,1,60,40800,0,72,0,109,0,Tarantula
+281,False,BTN,35,35,RetainerTaskParameter#35,1,60,40800,0,72,0,109,0,Dragon Pepper
+282,False,BTN,35,35,RetainerTaskParameter#35,1,60,40800,0,72,0,109,0,Desert Saffron
+283,False,BTN,36,36,RetainerTaskParameter#36,1,60,44800,0,72,0,112,0,Blood Currants
+284,False,BTN,36,36,RetainerTaskParameter#36,1,60,44800,0,72,0,112,0,Iron Acorn
+285,False,BTN,36,36,RetainerTaskParameter#36,1,60,44800,0,72,0,112,0,Blood Currant Seeds
+286,False,BTN,37,37,RetainerTaskParameter#37,1,60,44800,0,72,0,113,0,Mahogany Log
+287,False,BTN,37,37,RetainerTaskParameter#37,1,60,44800,0,72,0,113,0,Mugwort
+288,False,BTN,38,38,RetainerTaskParameter#38,1,60,49000,0,72,0,116,0,Maiden Artichoke
+289,False,BTN,39,39,RetainerTaskParameter#39,1,60,49000,0,72,0,118,0,Ramhorn Zucchini
+290,False,BTN,39,39,RetainerTaskParameter#39,1,60,49000,0,72,0,118,0,Thyme
+291,False,BTN,39,39,RetainerTaskParameter#39,1,60,49000,0,72,0,118,0,Nutmeg
+292,False,BTN,40,40,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Almonds
+293,False,BTN,40,40,RetainerTaskParameter#40,1,60,52600,0,72,0,120,0,Almond Seeds
+294,False,BTN,41,41,RetainerTaskParameter#41,1,60,52600,0,72,0,125,0,Sagolii Sage
+295,False,BTN,42,42,RetainerTaskParameter#42,1,60,54200,0,72,0,127,0,Mirror Apple
+296,False,BTN,42,42,RetainerTaskParameter#42,1,60,54200,0,72,0,127,0,Black Scorpion
+297,False,BTN,42,42,RetainerTaskParameter#42,1,60,54200,0,72,0,127,0,Mirror Apple Seeds
+298,False,BTN,43,43,RetainerTaskParameter#43,1,60,54200,0,72,0,129,0,Rolanberry
+299,False,BTN,43,43,RetainerTaskParameter#43,1,60,54200,0,72,0,129,0,Rolanberry Seeds
+300,False,BTN,44,44,RetainerTaskParameter#44,1,60,55700,0,72,0,131,0,Mistletoe
+301,False,BTN,45,45,RetainerTaskParameter#45,1,60,55700,0,72,0,133,0,Dart Frog
+302,False,BTN,46,46,RetainerTaskParameter#46,1,60,61900,0,72,0,140,0,Rosewood Log
+303,False,BTN,47,47,RetainerTaskParameter#47,1,60,61900,0,72,0,142,0,Rosewood Branch
+304,False,BTN,48,48,RetainerTaskParameter#48,1,60,66400,0,72,0,144,0,Thanalan Tea Leaves
+305,False,BTN,49,49,RetainerTaskParameter#49,1,60,66400,0,72,0,147,0,Lava Toad
+306,False,BTN,49,50,RetainerTaskParameter#49,1,60,66400,0,72,0,147,0,Maiden Grass
+369,True,BTN,1,0,RetainerTaskParameter#1,2,1080,4900,0,0,0,0,0,Woodland Exploration I
+370,True,BTN,5,0,RetainerTaskParameter#1,2,1080,19900,0,0,0,0,0,Woodland Exploration II
+371,True,BTN,10,0,RetainerTaskParameter#1,2,1080,45200,0,72,0,30,0,Woodland Exploration III
+372,True,BTN,15,0,RetainerTaskParameter#1,2,1080,87600,0,72,0,45,0,Woodland Exploration IV
+373,True,BTN,20,0,RetainerTaskParameter#1,2,1080,106600,0,72,0,65,0,Woodland Exploration V
+374,True,BTN,25,0,RetainerTaskParameter#1,2,1080,138100,0,72,0,87,0,Woodland Exploration VI
+375,True,BTN,30,0,RetainerTaskParameter#1,2,1080,158300,0,72,0,99,0,Woodland Exploration VII
+376,True,BTN,35,0,RetainerTaskParameter#1,2,1080,195900,0,72,0,109,0,Woodland Exploration VIII
+377,True,BTN,40,0,RetainerTaskParameter#1,2,1080,220000,0,72,0,120,0,Woodland Exploration IX
+378,True,BTN,45,0,RetainerTaskParameter#1,2,1080,265600,0,72,0,133,0,Woodland Exploration X
+379,True,BTN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,230,0,Woodland Exploration XI
+380,True,BTN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,238,0,Woodland Exploration XII
+381,True,BTN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,285,0,Woodland Exploration XIII
+398,True,BTN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,286,0,Woodland Exploration XIV
+402,True,BTN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,292,0,Woodland Exploration XV
+406,True,BTN,50,0,RetainerTaskParameter#1,2,1080,421000,0,72,0,294,0,Woodland Exploration XVI
+410,True,BTN,51,0,RetainerTaskParameter#1,2,1080,680900,0,72,0,311,0,Woodland Exploration XVII
+414,True,BTN,55,0,RetainerTaskParameter#1,2,1080,988600,0,72,0,388,0,Woodland Exploration XVIII
+462,False,BTN,51,80,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Cedar Branch
+463,False,BTN,51,80,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Cedar Log
+464,False,BTN,51,120,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Rainbow Cotton Boll
+465,False,BTN,52,125,RetainerTaskParameter#125,1,60,154200,0,72,0,314,0,Mist Dill
+466,False,BTN,53,130,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Highland Wheat
+467,False,BTN,54,133,RetainerTaskParameter#133,1,60,186000,0,72,0,363,0,Stalk of Ramie
+468,False,BTN,54,133,RetainerTaskParameter#133,1,60,186000,0,72,0,363,0,Dark Chestnut Log
+469,False,BTN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Dark Chestnut Branch
+470,False,BTN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Magma Beet
+471,False,BTN,56,139,RetainerTaskParameter#139,1,60,216800,0,72,0,389,0,Coneflower
+472,False,BTN,57,142,RetainerTaskParameter#142,1,60,216800,0,72,0,392,0,Sesame Seeds
+473,False,BTN,57,142,RetainerTaskParameter#142,1,60,216800,0,72,0,392,0,Cow Bitter
+474,False,BTN,58,145,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Birch Branch
+475,False,BTN,58,145,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Rue
+476,False,BTN,59,148,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Coriander
+477,False,BTN,59,148,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Dandelion
+478,False,BTN,59,148,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Birch Sap
+479,False,BTN,60,150,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Gaelicatnip
+516,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Spruce Log
+517,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Thavnairian Mistletoe
+518,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Silkworm Cocoon
+519,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Trillium
+520,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Trillium Bulb
+521,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Black Truffle
+522,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Dzemael Tomato Seeds
+523,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Honey Lemon Seeds
+524,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Prickly Pineapple Seeds
+525,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Scarlet Sap
+526,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Shroud Tea Leaves
+527,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Young Cieldalaes Spinach
+528,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Blood Orange
+534,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Bamboo Stick
+535,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Waterfowl Feather
+537,False,BTN,50,80,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Ebony Log
+539,False,BTN,50,80,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Cypress Log
+542,False,BTN,50,90,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Rosemary
+544,False,BTN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Mazlaya Greens
+548,False,BTN,53,130,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Cyclops Onion
+549,False,BTN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Dark Chestnut
+550,False,BTN,55,136,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Emerald Beans
+551,False,BTN,58,145,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Birch Log
+554,True,BTN,60,0,RetainerTaskParameter#1,2,1080,1109600,0,72,0,486,0,Woodland Exploration XIX
+557,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Tree Toad
+558,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Lowland Grape Seeds
+559,False,BTN,11,11,RetainerTaskParameter#11,1,60,7400,0,72,0,40,0,Garlic Cloves
+560,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Buffalo Beans
+561,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Wild Onion Set
+562,False,BTN,12,12,RetainerTaskParameter#12,1,60,10200,0,72,0,41,0,Lavender Seeds
+563,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Coerthan Carrot Seeds
+564,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,La Noscean Lettuce Seeds
+565,False,BTN,13,13,RetainerTaskParameter#13,1,60,10200,0,72,0,43,0,Olive Seeds
+566,False,BTN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Gridanian Chestnut
+567,False,BTN,14,14,RetainerTaskParameter#14,1,60,13100,0,72,0,44,0,Black Pepper Seeds
+568,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Dzemael Tomato
+569,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Vampire Plant
+570,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Honey Lemon
+571,False,BTN,50,51,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Prickly Pineapple
+572,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Apricot
+573,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,La Noscean Leek
+574,False,BTN,50,55,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Unaspected Crystal
+576,False,BTN,50,70,RetainerTaskParameter#50,1,60,122000,0,72,0,149,0,Dark Matter Cluster
+580,True,BTN,61,0,RetainerTaskParameter#1,2,1080,1109700,0,72,0,700,0,Woodland Exploration XX
+584,True,BTN,65,0,RetainerTaskParameter#1,2,1080,1133300,0,72,0,739,0,Woodland Exploration XXI
+603,False,BTN,60,0,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Chysahl Greens
+604,False,BTN,50,0,RetainerTaskParameter#80,1,60,122000,0,72,0,149,0,Old World Fig
+605,False,BTN,51,0,RetainerTaskParameter#120,1,60,122000,0,72,0,311,0,Porcini
+606,False,BTN,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,314,0,Pearl Sprouts
+607,False,BTN,53,0,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Coerthan Tea Leaves
+608,False,BTN,54,0,RetainerTaskParameter#133,1,60,186000,0,72,0,363,0,Dravanian Mistletoe
+609,False,BTN,55,0,RetainerTaskParameter#136,1,60,186000,0,72,0,388,0,Chives
+610,False,BTN,56,0,RetainerTaskParameter#139,1,60,216800,0,72,0,389,0,Heavens Lemon
+611,False,BTN,58,0,RetainerTaskParameter#145,1,60,247100,0,72,0,396,0,Abalathian Mistletoe
+612,False,BTN,57,0,RetainerTaskParameter#142,1,60,216800,0,72,0,392,0,Cloud Banana
+613,False,BTN,59,0,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Morel
+614,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Seventh Heaven
+615,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Wattle Bark
+616,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Honeydew Almonds
+617,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Vanilla Beans
+618,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Dravanian Paprika
+619,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Snurbleberry
+620,False,BTN,50,0,RetainerTaskParameter#80,1,60,122000,0,72,0,149,0,Old World Fig Seeds
+621,False,BTN,52,0,RetainerTaskParameter#125,1,60,154200,0,72,0,314,0,Pearl Sprout Seeds
+622,False,BTN,53,0,RetainerTaskParameter#130,1,60,154200,0,72,0,362,0,Coerthan Tea Seeds
+623,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Frost Cotton Boll
+624,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Whitefrost Cotton Boll
+625,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Camphorwood Log
+626,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Camphorwood Branch
+627,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Old-growth Camphorwood Log
+632,False,BTN,60,0,RetainerTaskParameter#180,1,60,251000,0,72,0,602,0,Crystallized Sap
+633,False,BTN,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Firelight Seeds
+634,False,BTN,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Icelight Seeds
+635,False,BTN,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Windlight Seeds
+636,False,BTN,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Earthlight Seeds
+637,False,BTN,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Levinlight Seeds
+638,False,BTN,20,0,RetainerTaskParameter#20,1,60,24900,0,72,0,65,0,Waterlight Seeds
+639,False,BTN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Teak Log
+640,False,BTN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Star Cotton Boll
+641,False,BTN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Brown Mushroom
+642,False,BTN,60,0,RetainerTaskParameter#200,1,60,251000,0,72,0,644,0,Noble Sage
+667,False,BTN,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,700,0,Beech Branch
+668,False,BTN,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,700,0,Loquat
+669,False,BTN,61,0,RetainerTaskParameter#205,1,60,251000,0,72,0,700,0,Beech Log
+670,False,BTN,63,0,RetainerTaskParameter#215,1,60,261500,0,72,0,728,0,Larch Log
+671,False,BTN,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,734,0,Pine Resin
+672,False,BTN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Pine Log
+673,False,BTN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Bamboo Shoot
+674,False,BTN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Shiitake Mushroom
+675,False,BTN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Persimmon Leaf
+676,False,BTN,67,0,RetainerTaskParameter#245,1,60,265800,0,72,0,759,0,Persimmon
+677,False,BTN,67,0,RetainerTaskParameter#245,1,60,265800,0,72,0,759,0,Persimmon Log
+678,False,BTN,70,0,RetainerTaskParameter#290,1,60,301800,0,72,0,805,0,Zelkova Log
+679,False,BTN,70,0,RetainerTaskParameter#290,1,60,301800,0,72,0,805,0,Othardian Plum
+680,False,BTN,60,0,RetainerTaskParameter#190,1,60,251000,0,72,0,644,0,Gyr Abanian Wheat
+681,False,BTN,60,0,RetainerTaskParameter#190,1,60,251000,0,72,0,644,0,Bloodhemp
+682,False,BTN,62,0,RetainerTaskParameter#210,1,60,261500,0,72,0,714,0,Buckwheat Kernels
+683,False,BTN,62,0,RetainerTaskParameter#210,1,60,261500,0,72,0,714,0,Mountain Popoto
+684,False,BTN,62,0,RetainerTaskParameter#210,1,60,261500,0,72,0,714,0,Gem Algae
+685,False,BTN,63,0,RetainerTaskParameter#215,1,60,261500,0,72,0,728,0,Holy Basil
+686,False,BTN,63,0,RetainerTaskParameter#215,1,60,261500,0,72,0,728,0,Ruby Cotton Boll
+687,False,BTN,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,734,0,Sugar Beet
+688,False,BTN,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,734,0,Green Leek
+689,False,BTN,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,734,0,Soybeans
+690,False,BTN,64,0,RetainerTaskParameter#220,1,60,262000,0,72,0,734,0,Ama Nori
+691,False,BTN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Kudzu Root
+692,False,BTN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Cumin Seeds
+693,False,BTN,65,0,RetainerTaskParameter#225,1,60,262000,0,72,0,739,0,Kudzu Vine
+694,False,BTN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Daikon Radish
+695,False,BTN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Gyr Abanian Carrot
+696,False,BTN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Lotus Root
+697,False,BTN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Sun Cabbage
+698,False,BTN,66,0,RetainerTaskParameter#230,1,60,265800,0,72,0,744,0,Fennel
+699,False,BTN,67,0,RetainerTaskParameter#245,1,60,265800,0,72,0,759,0,Ruby Tide Kelp
+700,False,BTN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Jhammel Ginger
+701,False,BTN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Yanxian Parsley
+702,False,BTN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Alyssum
+703,False,BTN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Nagxian Cudweed
+704,False,BTN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Chickweed
+705,False,BTN,68,0,RetainerTaskParameter#260,1,60,283300,0,72,0,775,0,Nipplewort
+706,False,BTN,69,0,RetainerTaskParameter#275,1,60,283300,0,72,0,790,0,Doman Eggplant
+707,False,BTN,69,0,RetainerTaskParameter#275,1,60,283300,0,72,0,790,0,Twincoon
+708,False,BTN,70,0,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Hallowed Basil
+742,True,BTN,70,0,RetainerTaskParameter#1,2,1080,1169200,0,72,0,805,0,Woodland Exploration XXII
+746,False,BTN,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Torreya Log
+747,False,BTN,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Rhea
+749,False,BTN,70,300,RetainerTaskParameter#300,1,60,301800,0,72,0,875,0,Azim Cotton Boll
+753,False,BTN,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Black Willow Log
+754,False,BTN,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Hingan Flax
+757,False,BTN,70,320,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Hardened Veteran Tree Sap
+761,False,BTN,70,370,RetainerTaskParameter#370,1,60,301800,0,72,0,1155,0,Urunday Log
+762,False,BTN,70,370,RetainerTaskParameter#370,1,60,301800,0,72,0,1155,0,Yanxian Cotton Boll
+765,True,BTN,71,0,RetainerTaskParameter#1,2,1080,1412800,0,72,0,1190,0,Woodland Exploration XXIII
+769,True,BTN,75,0,RetainerTaskParameter#1,2,1080,2102400,0,72,0,1294,0,Woodland Exploration XXIV
+808,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Frantoio
+809,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Pixie Apple
+810,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,White Oak Log
+811,False,BTN,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,1225,0,Miracle Apple Log
+812,False,BTN,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1260,0,White Ash Log
+813,False,BTN,75,0,RetainerTaskParameter#380,1,60,377100,0,72,0,1294,0,Gianthive Chip
+814,False,BTN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Amber Cloves
+815,False,BTN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Sandteak Log
+816,False,BTN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Harcot
+817,False,BTN,80,0,RetainerTaskParameter#430,1,60,599200,0,72,0,1459,0,Lignum Vitae Log
+818,False,BTN,70,0,RetainerTaskParameter#320,1,60,301800,0,72,0,1015,0,Night Pepper
+819,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Blood Tomato
+820,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Bright Flax
+821,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Purple Carrot
+822,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,Curly Parsley
+823,False,BTN,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,1225,0,Broad Beans
+824,False,BTN,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,1225,0,Garden Beet
+825,False,BTN,72,0,RetainerTaskParameter#350,1,60,332400,0,72,0,1225,0,Iridescent Cocoon
+826,False,BTN,73,0,RetainerTaskParameter#355,1,60,332400,0,72,0,1235,0,Upland Wheat
+827,False,BTN,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1260,0,Peppermint
+828,False,BTN,74,0,RetainerTaskParameter#370,1,60,377100,0,72,0,1260,0,Pixie Floss Boll
+829,False,BTN,75,0,RetainerTaskParameter#380,1,60,377100,0,72,0,1294,0,Creamtop Mushroom
+830,False,BTN,75,0,RetainerTaskParameter#380,1,60,377100,0,72,0,1294,0,Royal Grapes
+831,False,BTN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Russet Popoto
+832,False,BTN,76,0,RetainerTaskParameter#390,1,60,437700,0,72,0,1327,0,Sweet Alyssum
+833,False,BTN,77,0,RetainerTaskParameter#400,1,60,437700,0,72,0,1360,0,Fernleaf Lavender
+834,False,BTN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Coffee Beans
+835,False,BTN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Bomba Rice
+836,False,BTN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Lime Basil
+837,False,BTN,79,0,RetainerTaskParameter#420,1,60,525600,0,72,0,1426,0,Tiger Lily
+838,False,BTN,79,0,RetainerTaskParameter#420,1,60,525600,0,72,0,1426,0,Light Gerbera
+839,False,BTN,78,0,RetainerTaskParameter#410,1,60,525600,0,72,0,1393,0,Mist Spinach
+840,False,BTN,79,0,RetainerTaskParameter#420,1,60,525600,0,72,0,1426,0,Dwarven Cotton Boll
+853,True,BTN,80,0,RetainerTaskParameter#1,2,1080,2396800,0,72,0,1459,0,Woodland Exploration XXV
+858,False,BTN,80,430,RetainerTaskParameter#430,1,60,599200,0,72,0,1459,0,Lemonette
+859,False,BTN,80,440,RetainerTaskParameter#440,1,60,599200,0,72,0,1528,0,Sandalwood Log
+860,False,BTN,80,440,RetainerTaskParameter#440,1,60,599200,0,72,0,1528,0,Ethereal Cocoon
+862,False,BTN,80,441,RetainerTaskParameter#440,1,60,599200,0,72,0,1528,0,Sandalwood Sap
+867,False,BTN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Merbau Log
+868,False,BTN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Duskblooms
+869,False,BTN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Imperial Fern
+871,False,BTN,80,460,RetainerTaskParameter#460,1,60,599200,0,72,0,1584,0,Tender Dill
+876,False,BTN,60,0,RetainerTaskParameter#150,1,60,251000,0,72,0,405,0,Periwinkle
+877,False,BTN,59,0,RetainerTaskParameter#148,1,60,247100,0,72,0,401,0,Cloud Mushroom
+878,False,BTN,56,0,RetainerTaskParameter#139,1,60,216800,0,72,0,389,0,Wind Widow
+879,False,BTN,71,0,RetainerTaskParameter#345,1,60,301800,0,72,0,1190,0,White Oak Branch
+884,True,BTN,81,0,RetainerTaskParameter#1,2,1080,3179200,0,72,0,1815,0,Woodland Exploration XXVI
+885,True,BTN,85,0,RetainerTaskParameter#1,2,1080,4335200,0,72,0,2027,0,Woodland Exploration XXVII
+888,False,BTN,80,490,RetainerTaskParameter#490,1,60,599200,0,72,0,1782,0,Silver Beech Log
+891,False,BTN,80,490,RetainerTaskParameter#490,1,60,599200,0,72,0,1782,0,Raindrop Cotton Boll
+892,False,BTN,80,490,RetainerTaskParameter#490,1,60,599200,0,72,0,1782,0,Wattle Petribark
+909,False,BTN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Horse Chestnut Log
+910,False,BTN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Dark Hemp
+911,False,BTN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Dark Rye
+912,False,BTN,81,0,RetainerTaskParameter#495,1,60,694200,0,72,0,1815,0,Iceberg Lettuce
+913,False,BTN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,Palm Log
+914,False,BTN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,Palm Syrup
+915,False,BTN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,Coconut
+916,False,BTN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,Thavnairian Perilla Leaf
+917,False,BTN,82,0,RetainerTaskParameter#500,1,60,694200,0,72,0,1848,0,Thavnairian Paprika
+918,False,BTN,83,0,RetainerTaskParameter#510,1,60,794800,0,72,0,1914,0,Cucumber
+919,False,BTN,83,0,RetainerTaskParameter#510,1,60,794800,0,72,0,1914,0,Eblan Lentils
+920,False,BTN,84,0,RetainerTaskParameter#520,1,60,794800,0,72,0,1980,0,Red Pine Log
+921,False,BTN,84,0,RetainerTaskParameter#520,1,60,794800,0,72,0,1980,0,Snow Flax
+922,False,BTN,84,0,RetainerTaskParameter#520,1,60,794800,0,72,0,1980,0,Beet
+923,False,BTN,85,0,RetainerTaskParameter#527,1,60,828700,0,72,0,2027,0,Carrot of Happiness
+924,False,BTN,86,0,RetainerTaskParameter#534,1,60,923100,0,72,0,2073,0,Ironwood Log
+925,False,BTN,86,0,RetainerTaskParameter#534,1,60,923100,0,72,0,2073,0,Scarlet Moko Grass
+926,False,BTN,87,0,RetainerTaskParameter#540,1,60,952900,0,72,0,2119,0,Sykon
+927,False,BTN,87,0,RetainerTaskParameter#540,1,60,952900,0,72,0,2119,0,Giant Popoto
+928,False,BTN,88,0,RetainerTaskParameter#547,1,60,1045900,0,72,0,2165,0,Elder Nutmeg Seeds
+929,False,BTN,88,0,RetainerTaskParameter#547,1,60,1045900,0,72,0,2165,0,Sideritis Leaves
+930,False,BTN,89,0,RetainerTaskParameter#554,1,60,1083800,0,72,0,2211,0,Integral Log
+931,False,BTN,89,0,RetainerTaskParameter#554,1,60,1083800,0,72,0,2211,0,AR-Caean Cotton Boll
+932,False,BTN,90,560,RetainerTaskParameter#560,1,60,1327800,0,72,0,2258,0,Alien Onion
+963,True,BTN,90,0,RetainerTaskParameter#1,2,1080,5311200,0,72,0,2258,0,Woodland Exploration XXVIII
+969,False,BTN,90,560,RetainerTaskParameter#560,1,60,1327800,0,72,0,2258,0,Potent Spice
+970,False,BTN,90,570,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Mempisang Log
+971,False,BTN,90,570,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Golden Cocoon
+972,False,BTN,90,570,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Double-edged Herb
+974,False,BTN,90,580,RetainerTaskParameter#570,1,60,1327800,0,72,0,2327,0,Thavnairian Corn
+978,False,BTN,90,600,RetainerTaskParameter#600,1,60,1327800,0,72,0,2565,0,Paldao Log
+979,False,BTN,90,600,RetainerTaskParameter#600,1,60,1327800,0,72,0,2565,0,Haritaki
+980,False,BTN,90,600,RetainerTaskParameter#600,1,60,1327800,0,72,0,2565,0,Bayberry
